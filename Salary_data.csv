@@ -1,0 +1,2471 @@
+DESIGNATION,RATINGS,PAST EXP,DAYS IN COMPANY,SALARY
+Analyst,2.0,0,599,44570
+Analyst,3.0,0,528,40955
+Analyst,3.0,0,1009,45550
+Analyst,5.0,0,857,40339
+Senior Analyst,3.0,1,557,63478
+Analyst,3.0,0,422,43110
+Analyst,4.0,1,668,41590
+Analyst,5.0,1,889,44828
+Analyst,2.0,0,1021,45830
+Analyst,4.0,1,894,43457
+Analyst,3.0,2,843,47636
+Analyst,5.0,1,579,48651
+Analyst,3.0,0,1068,40411
+Analyst,3.0,1,928,46941
+Analyst,5.0,0,818,47734
+Analyst,5.0,1,545,40541
+Analyst,2.0,0,1060,45832
+Analyst,2.0,0,715,48102
+Analyst,5.0,0,487,48662
+Analyst,2.0,1,1056,49685
+Senior Analyst,3.0,0,382,57488
+Analyst,2.0,0,1030,45410
+Analyst,5.0,0,975,43030
+Analyst,5.0,0,426,42388
+Senior Analyst,5.0,3,595,68295
+Associate,5.0,2,1615,73397
+Analyst,2.0,0,752,47008
+Analyst,5.0,1,526,49898
+Analyst,2.0,1,386,45389
+Analyst,3.0,0,1018,49326
+Analyst,4.0,0,1053,49901
+Analyst,2.0,2,415,42529
+Analyst,5.0,2,655,44448
+Senior Manager,4.0,13,1595,175497
+Analyst,4.0,2,555,47739
+Analyst,4.0,2,706,49046
+Analyst,3.0,2,647,47961
+Associate,2.0,5,621,96378
+Associate,4.0,9,365,76411
+Analyst,2.0,0,960,40264
+Analyst,2.0,0,680,45364
+Analyst,4.0,0,916,42013
+Analyst,5.0,2,899,42362
+Analyst,5.0,2,780,44620
+Analyst,5.0,1,500,43285
+Senior Analyst,3.0,5,637,66338
+Analyst,4.0,2,886,46436
+Analyst,3.0,0,993,49705
+Analyst,3.0,0,651,40095
+Senior Analyst,4.0,3,390,61647
+Analyst,3.0,0,508,42811
+Analyst,2.0,2,743,47365
+Analyst,5.0,0,870,45721
+Analyst,2.0,1,916,49976
+Analyst,2.0,0,993,42650
+Analyst,3.0,3,354,44632
+Analyst,3.0,3,528,48389
+Analyst,2.0,0,807,48665
+Associate,4.0,6,1007,72886
+Analyst,5.0,0,578,45225
+Senior Analyst,4.0,0,935,60712
+Analyst,3.0,1,822,41290
+Analyst,2.0,0,601,44993
+Analyst,4.0,1,869,46118
+Senior Analyst,5.0,1,1231,65212
+Senior Manager,4.0,9,1479,193621
+Analyst,2.0,0,773,44223
+Senior Analyst,2.0,1,817,53339
+Analyst,3.0,1,549,43638
+Analyst,2.0,0,948,44963
+Analyst,3.0,0,616,42686
+Analyst,2.0,0,493,40381
+Analyst,5.0,0,980,48461
+Analyst,4.0,1,1056,46584
+Senior Analyst,3.0,0,587,50739
+Associate,3.0,5,528,82083
+Analyst,2.0,1,381,40324
+Analyst,3.0,1,413,44001
+Analyst,3.0,0,873,43059
+Analyst,2.0,2,469,41685
+Associate,4.0,0,1397,95982
+Analyst,3.0,0,934,44699
+Senior Analyst,5.0,3,883,52690
+Analyst,4.0,0,691,40041
+Senior Analyst,5.0,3,431,56314
+Analyst,3.0,2,690,49785
+Analyst,5.0,1,777,41284
+Analyst,5.0,0,598,40562
+Analyst,2.0,0,889,46741
+Analyst,2.0,1,694,45100
+Analyst,5.0,0,479,41712
+Analyst,4.0,1,600,47069
+Analyst,3.0,1,993,40460
+Analyst,4.0,0,1045,47068
+Senior Analyst,2.0,0,829,50813
+Manager,4.0,3,2086,129191
+Analyst,5.0,2,384,46749
+Manager,2.0,6,1545,108665
+Associate,5.0,5,1127,76964
+Analyst,3.0,1,749,47417
+Analyst,5.0,0,631,47669
+Analyst,3.0,0,570,40318
+Analyst,2.0,0,858,46743
+Analyst,2.0,2,609,40060
+Analyst,3.0,2,809,46129
+Senior Manager,4.0,10,1003,189435
+Senior Analyst,2.0,0,1023,62537
+Analyst,5.0,1,842,44145
+Analyst,5.0,0,462,47998
+Analyst,2.0,2,720,49310
+Analyst,4.0,1,657,49235
+Senior Analyst,3.0,0,986,68245
+Analyst,5.0,1,445,47498
+Analyst,4.0,3,403,40636
+Analyst,4.0,1,1099,45233
+Senior Analyst,4.0,4,795,53275
+Analyst,5.0,1,903,43540
+Analyst,5.0,0,352,40275
+Analyst,5.0,0,757,44361
+Analyst,2.0,1,962,41936
+Analyst,5.0,0,999,45830
+Analyst,3.0,0,898,44521
+Analyst,3.0,0,521,45997
+Analyst,2.0,2,761,44218
+Manager,2.0,12,822,140926
+Analyst,3.0,0,491,48886
+Analyst,3.0,1,483,49081
+Analyst,2.0,0,680,42195
+Senior Analyst,3.0,0,1070,50130
+Senior Analyst,3.0,0,402,55472
+Analyst,5.0,1,961,43269
+Analyst,2.0,0,836,43712
+Analyst,5.0,3,396,42377
+Senior Analyst,3.0,0,1189,69316
+Analyst,2.0,0,863,46418
+Senior Analyst,3.0,5,511,65566
+Analyst,2.0,1,810,48976
+Analyst,4.0,0,997,43760
+Analyst,4.0,0,962,41047
+Analyst,2.0,2,760,43225
+Analyst,2.0,0,351,42361
+Analyst,4.0,0,479,43835
+Analyst,5.0,2,699,47326
+Senior Analyst,3.0,0,1196,61221
+Analyst,4.0,0,738,42943
+Analyst,3.0,0,855,48751
+Analyst,4.0,0,929,42136
+Analyst,5.0,0,927,42472
+Analyst,4.0,0,1020,46677
+Analyst,5.0,3,400,45977
+Analyst,5.0,3,408,41345
+Director,3.0,10,2020,323196
+Analyst,2.0,0,448,42727
+Senior Analyst,5.0,0,1320,53218
+Analyst,3.0,0,909,48422
+Associate,4.0,6,815,83066
+Analyst,2.0,0,837,41627
+Director,2.0,18,1058,388112
+Analyst,3.0,0,786,44469
+Analyst,3.0,2,426,41109
+Analyst,4.0,1,400,43924
+Senior Analyst,4.0,2,742,64232
+Analyst,2.0,0,1020,49644
+Director,2.0,11,2540,284733
+Analyst,4.0,0,661,48802
+Analyst,4.0,0,755,41748
+Senior Analyst,2.0,1,920,61575
+Analyst,3.0,1,751,46062
+Analyst,2.0,1,1010,40251
+Analyst,2.0,0,394,42416
+Analyst,5.0,0,587,43951
+Analyst,2.0,2,727,47903
+Analyst,3.0,0,975,45275
+Senior Analyst,5.0,1,478,61046
+Analyst,4.0,2,733,48204
+Senior Analyst,3.0,1,928,51053
+Analyst,2.0,0,466,42560
+Analyst,2.0,3,401,40947
+Senior Analyst,2.0,0,1312,68432
+Analyst,4.0,1,589,44561
+Senior Analyst,2.0,1,1424,63882
+Analyst,2.0,0,757,45903
+Analyst,3.0,0,1101,48470
+Analyst,4.0,0,709,45704
+Senior Analyst,5.0,0,747,57064
+Analyst,2.0,0,634,48546
+Senior Analyst,3.0,5,831,50044
+Analyst,2.0,0,927,41604
+Analyst,3.0,0,575,45022
+Manager,4.0,8,1579,107432
+Analyst,4.0,0,1043,45499
+Analyst,2.0,0,1000,47846
+Senior Analyst,3.0,1,1217,67299
+Analyst,2.0,2,407,48047
+Senior Manager,3.0,8,1858,186356
+Analyst,5.0,0,775,48539
+Analyst,2.0,0,390,45146
+Senior Analyst,3.0,0,1436,67321
+Analyst,2.0,2,435,43137
+Analyst,4.0,0,979,46974
+Analyst,2.0,1,979,48602
+Analyst,4.0,0,836,43036
+Analyst,3.0,0,548,49318
+Analyst,2.0,0,941,48356
+Analyst,3.0,1,926,49894
+Analyst,4.0,2,384,42344
+Analyst,4.0,0,1086,43343
+Analyst,4.0,0,739,47750
+Analyst,3.0,0,565,42440
+Analyst,2.0,3,533,45236
+Analyst,4.0,0,989,41514
+Analyst,4.0,1,370,45084
+Analyst,3.0,1,747,41676
+Analyst,5.0,0,851,46127
+Associate,5.0,4,1391,99416
+Analyst,3.0,1,955,47899
+Analyst,3.0,0,760,45927
+Analyst,2.0,1,422,48891
+Analyst,5.0,0,982,41284
+Director,2.0,17,1723,313649
+Analyst,2.0,0,1096,49111
+Senior Analyst,3.0,0,1417,51509
+Analyst,3.0,0,380,49393
+Analyst,4.0,0,907,46580
+Analyst,4.0,2,683,44538
+Analyst,2.0,0,741,46507
+Analyst,5.0,1,759,47308
+Analyst,5.0,0,415,45952
+Senior Analyst,3.0,1,922,68505
+Senior Analyst,5.0,0,1045,65316
+Analyst,5.0,1,391,47401
+Manager,3.0,11,795,129017
+Analyst,4.0,1,376,46347
+Analyst,4.0,2,653,47573
+Associate,2.0,5,1538,97708
+Analyst,5.0,0,565,46002
+Analyst,5.0,1,1064,47201
+Analyst,2.0,0,722,46733
+Senior Manager,3.0,17,489,191793
+Analyst,4.0,0,478,41035
+Manager,4.0,7,845,126871
+Senior Analyst,5.0,0,982,51532
+Analyst,5.0,1,700,43339
+Analyst,4.0,0,595,44506
+Analyst,2.0,0,809,40045
+Analyst,2.0,0,1051,48938
+Analyst,4.0,0,824,48185
+Analyst,3.0,2,625,47579
+Director,5.0,14,2332,375647
+Analyst,2.0,0,1009,47386
+Analyst,4.0,1,677,43952
+Analyst,4.0,0,1037,48981
+Analyst,4.0,1,1026,40702
+Director,4.0,17,515,235565
+Analyst,4.0,0,623,41641
+Analyst,4.0,0,986,44350
+Analyst,4.0,0,780,48887
+Analyst,2.0,0,956,47499
+Analyst,5.0,1,935,42128
+Analyst,3.0,0,1050,48271
+Analyst,4.0,0,823,41029
+Analyst,5.0,3,368,43659
+Manager,4.0,7,652,140867
+Analyst,5.0,1,595,49806
+Analyst,2.0,1,877,49110
+Analyst,4.0,0,613,42081
+Analyst,5.0,0,1009,41017
+Analyst,5.0,0,1040,48869
+Senior Analyst,3.0,5,861,66965
+Analyst,4.0,0,970,42338
+Analyst,4.0,0,884,49380
+Manager,3.0,6,712,117354
+Analyst,2.0,2,909,41679
+Analyst,4.0,0,476,44207
+Analyst,2.0,0,439,45059
+Associate,3.0,0,1704,95056
+Analyst,3.0,0,1038,48777
+Senior Analyst,4.0,4,528,56728
+Senior Analyst,3.0,1,1123,53113
+Analyst,4.0,0,584,45039
+Analyst,2.0,0,590,41619
+Senior Analyst,3.0,1,751,62672
+Analyst,3.0,0,994,42925
+Analyst,5.0,1,938,44343
+Analyst,4.0,0,600,47967
+Associate,5.0,4,684,92323
+Analyst,5.0,2,898,42002
+Senior Manager,5.0,11,716,199577
+Associate,4.0,0,1673,96478
+Senior Analyst,3.0,3,490,51817
+Analyst,4.0,2,420,45604
+Analyst,5.0,2,632,46844
+Analyst,2.0,0,763,46425
+Analyst,5.0,0,682,41908
+Analyst,3.0,0,946,42848
+Analyst,2.0,0,734,45895
+Analyst,5.0,0,949,41580
+Senior Analyst,2.0,0,1411,55417
+Analyst,2.0,0,778,41803
+Manager,4.0,8,1505,113837
+Senior Analyst,4.0,3,536,69851
+Analyst,2.0,1,430,42429
+Associate,3.0,2,1208,90346
+Analyst,4.0,0,395,44980
+Manager,3.0,6,1451,124711
+Analyst,2.0,0,808,42803
+Analyst,5.0,0,589,44015
+Senior Analyst,2.0,2,1307,55693
+Senior Analyst,4.0,1,927,52083
+Analyst,2.0,0,932,46907
+Senior Analyst,2.0,0,1274,63008
+Senior Analyst,3.0,0,417,64112
+Analyst,2.0,2,361,44888
+Analyst,5.0,2,787,41921
+Analyst,3.0,0,728,41926
+Director,5.0,19,1222,324783
+Analyst,3.0,1,759,46499
+Analyst,3.0,0,1036,42754
+Analyst,4.0,0,383,46812
+Analyst,4.0,0,416,47001
+Analyst,5.0,1,619,40646
+Associate,2.0,3,1275,97879
+Analyst,5.0,0,628,49013
+Analyst,3.0,0,1068,41120
+Manager,5.0,5,605,126181
+Associate,3.0,6,385,76143
+Analyst,5.0,0,960,40998
+Senior Manager,5.0,6,2061,198814
+Analyst,2.0,0,1034,43417
+Senior Analyst,3.0,4,890,59111
+Associate,3.0,0,1348,72328
+Analyst,3.0,1,416,44225
+Analyst,2.0,1,916,47561
+Analyst,2.0,2,700,44512
+Analyst,4.0,2,788,43352
+Analyst,2.0,3,358,49619
+Analyst,4.0,2,614,43991
+Analyst,5.0,0,646,44712
+Analyst,2.0,0,378,47401
+Associate,2.0,1,1408,85391
+Analyst,2.0,2,364,47638
+Analyst,4.0,0,889,41284
+Analyst,5.0,2,444,46251
+Analyst,2.0,3,389,47183
+Analyst,4.0,0,621,44214
+Analyst,2.0,0,827,41227
+Analyst,5.0,2,747,43474
+Analyst,3.0,0,653,42178
+Analyst,4.0,0,977,40436
+Analyst,4.0,0,967,41354
+Analyst,4.0,0,851,40417
+Analyst,2.0,0,629,44617
+Analyst,4.0,0,843,44163
+Analyst,4.0,0,767,45123
+Analyst,5.0,0,611,41550
+Analyst,5.0,0,939,41989
+Analyst,2.0,1,583,46206
+Analyst,4.0,1,518,42255
+Analyst,2.0,1,709,42667
+Analyst,5.0,2,614,41734
+Analyst,4.0,0,848,40975
+Analyst,4.0,0,932,47695
+Analyst,5.0,0,741,42786
+Analyst,3.0,0,1047,48681
+Analyst,5.0,0,1010,43185
+Analyst,3.0,0,1014,41577
+Analyst,2.0,0,1033,41691
+Senior Analyst,4.0,3,940,51534
+Analyst,4.0,0,1036,49020
+Manager,5.0,7,1896,120184
+Manager,3.0,6,1198,147560
+Analyst,5.0,0,931,49602
+Analyst,5.0,0,971,42538
+Analyst,2.0,0,349,41027
+Analyst,2.0,0,860,43716
+Senior Analyst,4.0,0,1330,60085
+Analyst,2.0,0,1101,48682
+Analyst,3.0,0,568,42710
+Senior Analyst,5.0,2,1185,53390
+Associate,4.0,3,1643,99130
+Analyst,4.0,0,909,45152
+Analyst,3.0,0,1096,43357
+Senior Analyst,5.0,0,1254,57000
+Analyst,2.0,0,520,44134
+Analyst,3.0,1,475,44148
+Senior Analyst,2.0,0,1313,56181
+Analyst,2.0,1,409,48287
+Senior Analyst,4.0,3,453,69421
+Analyst,5.0,0,622,44342
+Senior Analyst,4.0,2,721,61710
+Analyst,3.0,0,1025,46038
+Associate,2.0,4,641,78493
+Analyst,4.0,3,457,43292
+Analyst,3.0,2,633,42657
+Analyst,3.0,1,1024,42400
+Analyst,3.0,0,1046,41713
+Analyst,3.0,0,1051,46664
+Senior Analyst,5.0,1,871,66339
+Analyst,2.0,0,709,45450
+Analyst,3.0,2,573,43355
+Analyst,4.0,0,972,42140
+Senior Analyst,2.0,5,522,52406
+Analyst,4.0,2,482,42440
+Senior Analyst,4.0,0,1466,64913
+Analyst,2.0,0,1085,41551
+Senior Analyst,5.0,0,955,54689
+Analyst,4.0,0,619,48747
+Senior Analyst,5.0,0,470,59907
+Analyst,2.0,2,748,45319
+Senior Analyst,3.0,2,1287,60707
+Analyst,4.0,1,623,43124
+Analyst,5.0,0,808,42121
+Analyst,3.0,2,467,45950
+Senior Analyst,2.0,0,1061,55525
+Manager,5.0,8,1897,112580
+Analyst,3.0,0,593,42160
+Analyst,3.0,0,549,40335
+Analyst,5.0,0,678,40363
+Analyst,2.0,0,997,49029
+Analyst,5.0,1,797,48775
+Analyst,2.0,0,676,40396
+Analyst,5.0,3,419,45998
+Senior Analyst,2.0,0,821,68996
+Analyst,2.0,1,572,48222
+Analyst,5.0,0,1058,47982
+Analyst,4.0,3,366,44888
+Analyst,5.0,2,830,42457
+Senior Analyst,2.0,1,1289,58619
+Analyst,4.0,0,1032,45482
+Analyst,5.0,0,440,47827
+Senior Manager,3.0,10,1328,169300
+Analyst,2.0,0,486,48833
+Associate,4.0,1,1511,96909
+Senior Analyst,2.0,4,1068,65639
+Senior Analyst,5.0,0,1407,63841
+Analyst,5.0,2,539,46988
+Analyst,3.0,0,810,48739
+Analyst,2.0,0,463,46438
+Analyst,2.0,0,951,49253
+Analyst,4.0,0,545,43508
+Analyst,2.0,0,694,43586
+Analyst,2.0,1,779,46064
+Analyst,3.0,1,589,43031
+Analyst,5.0,1,861,40513
+Analyst,3.0,0,826,47018
+Senior Analyst,4.0,3,783,50368
+Associate,3.0,8,735,99098
+Analyst,3.0,2,606,47735
+Analyst,2.0,0,792,42722
+Associate,2.0,3,927,73190
+Analyst,4.0,0,794,40134
+Associate,3.0,1,647,93854
+Senior Analyst,4.0,0,528,67014
+Analyst,2.0,1,656,46726
+Analyst,5.0,0,560,49497
+Analyst,5.0,3,506,40270
+Senior Analyst,5.0,4,625,60155
+Analyst,4.0,1,579,44054
+Analyst,2.0,0,410,49006
+Analyst,4.0,0,486,41008
+Analyst,4.0,1,853,44497
+Analyst,5.0,0,912,45528
+Analyst,4.0,1,739,41196
+Senior Analyst,2.0,0,941,60159
+Analyst,2.0,0,704,49744
+Analyst,4.0,0,542,41865
+Analyst,4.0,0,363,45784
+Manager,5.0,10,1272,111599
+Associate,4.0,6,1105,77261
+Analyst,5.0,2,891,41323
+Analyst,4.0,1,947,44664
+Senior Analyst,2.0,1,1293,65927
+Analyst,4.0,0,433,42723
+Director,4.0,12,2098,313938
+Analyst,3.0,0,955,46616
+Analyst,5.0,2,584,47517
+Senior Analyst,3.0,2,699,66311
+Analyst,4.0,0,530,43620
+Associate,4.0,9,827,72359
+Analyst,5.0,0,964,43324
+Senior Analyst,5.0,0,578,66984
+Senior Analyst,5.0,3,1160,63154
+Analyst,4.0,2,771,45992
+Analyst,2.0,0,653,44887
+Senior Analyst,2.0,0,1192,57046
+Analyst,4.0,0,592,40065
+Analyst,2.0,0,1016,43676
+Analyst,3.0,0,536,43428
+Analyst,2.0,0,402,43976
+Senior Analyst,3.0,1,818,66820
+Senior Analyst,3.0,2,357,64798
+Analyst,5.0,0,996,40403
+Associate,2.0,5,1342,99603
+Associate,2.0,2,1595,96198
+Senior Analyst,5.0,4,813,51930
+Analyst,5.0,2,584,48996
+Analyst,3.0,3,531,46808
+Senior Manager,3.0,12,931,167610
+Analyst,2.0,3,481,44454
+Associate,2.0,6,503,86231
+Analyst,5.0,2,506,45252
+Analyst,4.0,3,444,44011
+Analyst,5.0,0,539,47519
+Analyst,4.0,3,431,46947
+Analyst,4.0,3,533,46556
+Analyst,2.0,0,1073,43363
+Analyst,5.0,1,943,43391
+Analyst,4.0,0,776,41164
+Analyst,4.0,1,626,48476
+Senior Manager,4.0,10,1462,167525
+Senior Analyst,4.0,0,1149,65594
+Analyst,4.0,0,966,45579
+Senior Analyst,5.0,0,1181,65880
+Analyst,4.0,0,1077,48948
+Analyst,5.0,0,1072,45525
+Analyst,5.0,0,640,41819
+Analyst,4.0,1,886,49752
+Analyst,5.0,0,591,48611
+Analyst,3.0,2,375,43295
+Analyst,2.0,0,787,40395
+Senior Analyst,2.0,0,1372,62960
+Analyst,2.0,0,1044,41912
+Analyst,3.0,0,913,45013
+Senior Analyst,2.0,0,427,56854
+Analyst,2.0,0,839,47681
+Analyst,2.0,3,503,43638
+Analyst,4.0,1,643,45776
+Analyst,3.0,0,949,47216
+Analyst,5.0,0,1012,46824
+Manager,4.0,6,1522,143778
+Senior Analyst,4.0,0,1466,60465
+Analyst,3.0,0,718,40816
+Analyst,5.0,1,416,44427
+Analyst,3.0,0,816,48930
+Manager,4.0,7,1800,148273
+Analyst,3.0,1,455,48583
+Analyst,5.0,1,371,40413
+Analyst,5.0,2,520,46891
+Senior Analyst,3.0,4,494,56166
+Analyst,3.0,0,1101,43986
+Analyst,2.0,2,462,43621
+Analyst,2.0,0,416,40228
+Analyst,3.0,0,933,49384
+Analyst,3.0,1,704,48969
+Senior Analyst,2.0,4,343,58341
+Analyst,4.0,0,747,44448
+Senior Analyst,5.0,4,477,51655
+Analyst,4.0,2,843,42776
+Analyst,5.0,0,691,47326
+Analyst,5.0,0,367,48098
+Analyst,4.0,0,635,49903
+Analyst,4.0,0,599,41984
+Analyst,5.0,2,595,48447
+Senior Analyst,4.0,1,1215,50809
+Analyst,5.0,0,1089,45181
+Analyst,2.0,0,398,44543
+Analyst,5.0,1,853,41380
+Senior Analyst,3.0,3,498,53406
+Analyst,5.0,0,998,41662
+Analyst,3.0,0,982,41955
+Analyst,3.0,0,678,45323
+Associate,5.0,4,962,90201
+Analyst,3.0,0,979,40222
+Analyst,3.0,0,1042,43247
+Senior Analyst,3.0,2,810,62673
+Senior Analyst,3.0,2,1323,69306
+Analyst,3.0,1,364,48462
+Senior Analyst,4.0,4,424,54643
+Senior Analyst,4.0,3,908,57182
+Analyst,2.0,0,454,49395
+Senior Analyst,3.0,2,406,60348
+Associate,2.0,4,985,72626
+Analyst,3.0,2,551,43751
+Senior Analyst,2.0,1,608,65607
+Analyst,3.0,0,680,40183
+Analyst,4.0,2,834,47609
+Analyst,4.0,0,1098,45896
+Analyst,5.0,1,810,40486
+Associate,3.0,0,1117,96535
+Analyst,2.0,0,474,44762
+Analyst,3.0,0,1029,48839
+Analyst,5.0,0,1016,43397
+Analyst,2.0,0,1095,49611
+Senior Analyst,5.0,3,810,67051
+Associate,2.0,7,730,93516
+Analyst,2.0,0,762,44181
+Manager,4.0,7,966,100471
+Senior Analyst,4.0,0,1378,69383
+Analyst,3.0,0,705,43132
+Analyst,3.0,2,553,40403
+Analyst,4.0,0,880,43239
+Analyst,3.0,0,1003,42943
+Analyst,2.0,0,691,41664
+Senior Analyst,2.0,0,488,63290
+Analyst,2.0,1,768,47598
+Analyst,2.0,0,927,45447
+Analyst,4.0,0,843,42213
+Analyst,5.0,0,625,44397
+Analyst,3.0,0,443,48801
+Analyst,2.0,1,953,47532
+Senior Manager,4.0,12,457,184143
+Manager,4.0,8,1399,124154
+Analyst,5.0,2,586,40786
+Analyst,5.0,0,744,47080
+Analyst,3.0,1,918,46572
+Analyst,5.0,1,768,42066
+Associate,5.0,6,1662,72598
+Analyst,2.0,0,526,46506
+Analyst,4.0,1,800,44733
+Analyst,3.0,0,602,46227
+Analyst,4.0,0,557,46207
+Senior Analyst,4.0,0,1163,62243
+Analyst,4.0,0,791,48479
+Analyst,3.0,0,1021,48364
+Analyst,4.0,3,439,46564
+Analyst,4.0,0,922,48001
+Senior Analyst,2.0,0,371,55001
+Analyst,5.0,2,541,49901
+Senior Analyst,5.0,2,779,65919
+Senior Analyst,2.0,0,1436,61353
+Analyst,2.0,3,482,49321
+Associate,4.0,6,409,93715
+Analyst,5.0,1,413,41052
+Analyst,3.0,0,1037,46907
+Analyst,3.0,0,449,45518
+Analyst,5.0,0,556,43894
+Analyst,3.0,1,1077,48355
+Analyst,3.0,0,410,47759
+Analyst,3.0,1,1086,40105
+Senior Analyst,5.0,1,1197,60014
+Analyst,2.0,0,893,44848
+Analyst,4.0,0,964,45103
+Associate,5.0,4,932,81191
+Analyst,5.0,0,649,45025
+Analyst,3.0,0,495,41943
+Senior Analyst,2.0,0,1185,50393
+Analyst,4.0,0,856,42003
+Analyst,2.0,0,626,42041
+Analyst,3.0,1,1090,44015
+Manager,2.0,4,1706,140916
+Analyst,5.0,0,937,46173
+Analyst,5.0,1,465,41701
+Analyst,4.0,0,1027,47465
+Analyst,3.0,1,553,49670
+Senior Manager,4.0,6,1707,153111
+Analyst,3.0,1,528,47408
+Analyst,2.0,1,390,47629
+Senior Analyst,5.0,5,567,68884
+Analyst,4.0,1,797,49849
+Senior Analyst,4.0,1,689,68785
+Analyst,4.0,0,941,48102
+Analyst,5.0,0,898,44610
+Analyst,5.0,1,1004,46659
+Analyst,3.0,0,831,47781
+Analyst,3.0,2,672,49942
+Manager,2.0,8,615,148606
+Manager,2.0,5,1063,110885
+Analyst,2.0,0,501,45019
+Analyst,3.0,0,927,41378
+Analyst,2.0,0,647,42327
+Senior Analyst,5.0,3,349,68446
+Analyst,4.0,0,654,47764
+Analyst,5.0,0,468,49905
+Director,2.0,23,395,253284
+Analyst,3.0,0,1098,49703
+Analyst,5.0,1,413,48049
+Analyst,5.0,2,653,43428
+Senior Manager,5.0,11,344,185221
+Analyst,4.0,1,515,48969
+Analyst,5.0,1,351,45740
+Analyst,5.0,0,849,46601
+Analyst,4.0,1,439,45949
+Analyst,3.0,0,805,41861
+Senior Analyst,2.0,0,1363,56772
+Analyst,4.0,3,350,46052
+Analyst,4.0,0,499,43483
+Analyst,2.0,2,853,43860
+Senior Analyst,3.0,3,761,61374
+Analyst,5.0,0,1010,48095
+Analyst,5.0,0,565,49592
+Analyst,2.0,1,708,46942
+Analyst,3.0,2,347,42333
+Director,4.0,17,2219,319141
+Associate,2.0,3,1796,91596
+Analyst,4.0,0,507,40586
+Analyst,3.0,0,1036,49530
+Analyst,5.0,2,519,42583
+Associate,3.0,4,1523,92453
+Associate,3.0,5,398,93659
+Analyst,3.0,2,424,48222
+Analyst,3.0,2,651,46319
+Analyst,5.0,2,514,45861
+Analyst,4.0,0,1101,45481
+Analyst,2.0,1,1101,42008
+Analyst,3.0,0,602,47850
+Analyst,4.0,2,723,40113
+Analyst,4.0,0,988,47525
+Analyst,3.0,0,606,47685
+Senior Analyst,2.0,1,343,64823
+Analyst,2.0,1,422,40414
+Analyst,5.0,0,354,40572
+Analyst,5.0,2,643,46350
+Associate,3.0,3,1005,93529
+Senior Analyst,2.0,0,1130,63647
+Manager,4.0,9,756,140401
+Analyst,5.0,0,727,49141
+Analyst,2.0,1,437,43670
+Analyst,5.0,0,802,42553
+Analyst,5.0,0,482,46783
+Analyst,5.0,0,1064,47146
+Analyst,2.0,0,664,48730
+Analyst,2.0,0,673,40808
+Analyst,4.0,1,1056,40508
+Analyst,5.0,0,762,45111
+Analyst,5.0,1,417,47414
+Senior Manager,4.0,11,1312,161839
+Associate,5.0,5,616,82993
+Analyst,4.0,1,1082,43354
+Analyst,2.0,1,852,47791
+Senior Analyst,4.0,0,986,59115
+Analyst,2.0,0,807,49830
+Analyst,2.0,0,1018,46822
+Analyst,5.0,0,1087,45321
+Analyst,4.0,0,391,48781
+Analyst,3.0,2,801,49631
+Analyst,5.0,1,1033,46102
+Analyst,3.0,1,1017,46781
+Analyst,5.0,1,657,46935
+Analyst,2.0,0,984,41705
+Analyst,4.0,0,533,43434
+Analyst,5.0,1,821,43726
+Analyst,4.0,0,586,48443
+Senior Analyst,5.0,5,708,50687
+Analyst,3.0,2,839,42635
+Analyst,3.0,1,961,41834
+Analyst,5.0,2,516,44028
+Analyst,5.0,0,951,44787
+Senior Analyst,5.0,1,1434,60183
+Analyst,5.0,1,558,40594
+Analyst,5.0,0,989,40251
+Analyst,5.0,0,645,44551
+Analyst,4.0,2,415,49525
+Analyst,4.0,0,565,43624
+Analyst,4.0,2,785,41785
+Senior Analyst,4.0,2,1337,52760
+Analyst,4.0,0,380,42143
+Senior Analyst,3.0,2,931,68067
+Associate,5.0,3,1176,87166
+Analyst,2.0,0,1004,48519
+Analyst,3.0,0,365,47013
+Analyst,4.0,0,572,47131
+Senior Analyst,5.0,3,598,67582
+Analyst,4.0,0,831,48343
+Analyst,2.0,0,971,44693
+Analyst,5.0,0,557,47812
+Analyst,2.0,1,353,40690
+Analyst,3.0,0,700,48587
+Analyst,2.0,0,589,44467
+Analyst,3.0,1,398,43172
+Analyst,2.0,0,987,44014
+Analyst,4.0,0,776,44372
+Analyst,2.0,0,733,47033
+Analyst,4.0,0,538,47990
+Analyst,3.0,0,814,46452
+Analyst,3.0,2,806,42826
+Analyst,2.0,0,960,40846
+Analyst,5.0,0,1053,45036
+Associate,3.0,3,787,71673
+Analyst,4.0,0,861,41386
+Analyst,3.0,0,929,44094
+Senior Analyst,5.0,0,1063,67575
+Analyst,3.0,0,664,45156
+Analyst,3.0,0,693,49686
+Analyst,3.0,0,703,41032
+Associate,5.0,5,1770,98715
+Senior Analyst,5.0,2,454,58773
+Analyst,2.0,0,561,41925
+Analyst,4.0,3,524,43531
+Analyst,2.0,0,755,42673
+Analyst,5.0,0,802,49618
+Senior Analyst,4.0,3,1016,69643
+Senior Analyst,2.0,0,655,59262
+Analyst,5.0,3,362,41583
+Analyst,3.0,0,426,40415
+Analyst,5.0,0,1060,42416
+Associate,2.0,5,574,87324
+Associate,2.0,0,1616,84967
+Analyst,5.0,0,1083,41869
+Analyst,5.0,0,1085,43481
+Senior Analyst,4.0,2,1131,54166
+Analyst,3.0,3,397,47649
+Manager,2.0,5,2074,119673
+Analyst,3.0,0,583,47431
+Analyst,2.0,0,579,48014
+Analyst,2.0,0,873,49686
+Analyst,2.0,1,400,46043
+Analyst,2.0,1,975,46110
+Senior Analyst,2.0,0,1049,62307
+Analyst,3.0,0,415,49627
+Analyst,3.0,2,646,44882
+Manager,5.0,10,851,144573
+Senior Manager,5.0,13,1073,164773
+Senior Analyst,5.0,0,939,67735
+Analyst,3.0,0,1096,44964
+Analyst,2.0,0,757,41476
+Associate,2.0,2,1795,97830
+Analyst,3.0,1,619,42797
+Analyst,2.0,0,705,43173
+Analyst,4.0,3,495,47683
+Senior Manager,4.0,7,2011,196757
+Analyst,4.0,0,1032,42075
+Analyst,3.0,0,453,43353
+Analyst,4.0,0,795,43923
+Analyst,5.0,0,1082,43605
+Analyst,3.0,0,1080,41262
+Analyst,3.0,0,937,48056
+Analyst,3.0,1,670,46584
+Analyst,4.0,0,991,42651
+Analyst,3.0,0,890,42465
+Analyst,2.0,0,997,42453
+Analyst,3.0,0,386,46026
+Analyst,5.0,1,583,49581
+Analyst,5.0,0,910,41729
+Senior Analyst,2.0,2,962,56977
+Senior Manager,4.0,11,1340,166335
+Manager,2.0,7,1931,135653
+Associate,5.0,6,561,98057
+Senior Analyst,2.0,4,425,54184
+Analyst,3.0,3,402,49953
+Senior Analyst,3.0,0,603,52113
+Analyst,3.0,1,890,44983
+Analyst,4.0,0,349,45057
+Analyst,4.0,0,948,46985
+Analyst,4.0,1,640,41846
+Associate,5.0,6,1440,79721
+Analyst,4.0,1,507,45636
+Analyst,2.0,2,389,41609
+Analyst,3.0,2,654,47178
+Analyst,2.0,0,664,40331
+Senior Analyst,4.0,2,379,57997
+Analyst,2.0,2,644,46514
+Analyst,4.0,1,1035,40140
+Analyst,4.0,0,1035,46116
+Analyst,5.0,2,553,49111
+Analyst,5.0,2,486,47782
+Analyst,4.0,2,566,44022
+Analyst,3.0,0,700,41468
+Analyst,4.0,0,441,40142
+Senior Manager,3.0,10,831,151618
+Senior Analyst,2.0,1,710,66022
+Analyst,5.0,1,980,47746
+Analyst,4.0,0,1002,48101
+Analyst,2.0,0,962,45028
+Analyst,5.0,1,600,43461
+Analyst,2.0,0,568,43726
+Analyst,2.0,0,617,44925
+Senior Manager,5.0,13,1177,187426
+Analyst,3.0,0,804,47430
+Analyst,3.0,0,553,44312
+Analyst,4.0,2,638,40271
+Analyst,3.0,0,1011,45105
+Analyst,5.0,1,760,45174
+Analyst,4.0,1,582,49908
+Analyst,4.0,0,994,44591
+Analyst,3.0,0,712,40054
+Analyst,2.0,0,519,48773
+Analyst,4.0,0,915,49026
+Associate,5.0,3,627,71873
+Analyst,3.0,0,953,46078
+Analyst,5.0,0,806,47936
+Analyst,5.0,2,413,41653
+Analyst,3.0,0,688,49265
+Analyst,3.0,0,385,43315
+Analyst,2.0,0,534,43569
+Manager,4.0,5,850,122535
+Analyst,4.0,1,480,45606
+Analyst,2.0,1,448,40300
+Analyst,2.0,0,702,44956
+Analyst,2.0,0,891,40562
+Analyst,5.0,0,377,45155
+Analyst,4.0,0,570,45531
+Analyst,3.0,1,1048,44618
+Analyst,3.0,1,791,46823
+Analyst,4.0,2,854,48268
+Analyst,4.0,0,367,43807
+Analyst,4.0,1,520,47160
+Analyst,2.0,0,678,42519
+Analyst,5.0,0,738,47297
+Senior Manager,5.0,11,880,153246
+Analyst,2.0,0,539,45122
+Analyst,3.0,2,899,46152
+Associate,2.0,3,1437,90802
+Analyst,3.0,0,743,47788
+Analyst,2.0,0,604,46218
+Analyst,3.0,0,644,40398
+Analyst,4.0,0,1093,40267
+Analyst,3.0,2,909,46965
+Analyst,5.0,0,980,41071
+Analyst,2.0,3,355,40261
+Analyst,2.0,0,677,42148
+Analyst,5.0,0,648,43671
+Analyst,3.0,0,932,42469
+Analyst,5.0,0,556,47979
+Analyst,2.0,0,675,46370
+Analyst,5.0,2,596,44273
+Manager,5.0,8,796,129647
+Analyst,2.0,0,589,41316
+Analyst,5.0,0,343,43159
+Senior Analyst,2.0,3,815,56300
+Analyst,5.0,2,419,40236
+Analyst,3.0,1,362,44730
+Associate,3.0,7,1328,78311
+Analyst,2.0,0,880,45875
+Senior Analyst,4.0,3,519,65600
+Analyst,4.0,0,851,46851
+Manager,4.0,9,369,114337
+Analyst,5.0,0,1096,45527
+Associate,3.0,2,1618,83091
+Analyst,3.0,0,577,40244
+Analyst,5.0,1,656,49315
+Analyst,2.0,2,633,45461
+Senior Analyst,2.0,0,1129,59425
+Analyst,3.0,0,728,41966
+Analyst,2.0,3,446,43938
+Analyst,2.0,0,409,41759
+Senior Manager,3.0,10,987,171056
+Analyst,2.0,2,662,40214
+Analyst,2.0,2,558,43148
+Analyst,2.0,0,666,48074
+Analyst,4.0,0,844,45561
+Analyst,4.0,0,1086,42987
+Analyst,2.0,1,688,44125
+Analyst,2.0,0,726,45790
+Analyst,2.0,1,478,47807
+Analyst,2.0,0,934,44763
+Analyst,2.0,2,513,41516
+Analyst,4.0,2,691,49764
+Analyst,3.0,1,413,48892
+Analyst,3.0,0,846,49248
+Analyst,2.0,2,814,45818
+Analyst,2.0,0,1068,45675
+Analyst,2.0,1,448,45744
+Analyst,5.0,2,587,43418
+Analyst,2.0,0,843,43601
+Senior Analyst,4.0,1,903,66908
+Analyst,4.0,0,952,47667
+Analyst,2.0,1,715,48689
+Analyst,5.0,0,1085,45633
+Analyst,3.0,2,699,48287
+Analyst,3.0,3,486,49459
+Analyst,5.0,1,740,48222
+Analyst,4.0,3,373,47590
+Analyst,2.0,3,420,41166
+Analyst,3.0,1,1017,42064
+Analyst,2.0,2,515,44557
+Associate,3.0,2,916,87171
+Analyst,3.0,0,425,41053
+Analyst,5.0,0,855,41320
+Analyst,2.0,1,556,49662
+Analyst,2.0,0,355,42476
+Senior Analyst,5.0,5,498,51380
+Analyst,2.0,1,780,47714
+Analyst,4.0,1,696,44406
+Analyst,5.0,3,376,42214
+Analyst,3.0,0,382,46813
+Analyst,2.0,1,424,48406
+Analyst,4.0,0,856,41265
+Analyst,2.0,0,888,43539
+Analyst,4.0,0,945,43875
+Analyst,4.0,0,859,44814
+Analyst,5.0,1,865,40961
+Associate,5.0,9,429,91165
+Analyst,5.0,1,870,48354
+Associate,2.0,5,1178,82514
+Analyst,4.0,1,626,42303
+Analyst,4.0,0,594,40424
+Analyst,3.0,0,697,47591
+Analyst,4.0,1,383,42490
+Manager,5.0,8,1802,135858
+Analyst,3.0,0,723,43783
+Analyst,3.0,1,1089,46386
+Analyst,5.0,2,412,41781
+Senior Analyst,3.0,1,1004,64636
+Analyst,4.0,0,1079,41069
+Analyst,3.0,0,526,45481
+Analyst,5.0,0,486,42473
+Senior Analyst,2.0,0,1277,55949
+Analyst,2.0,2,820,47237
+Analyst,5.0,0,732,49213
+Analyst,4.0,0,973,45289
+Analyst,4.0,2,368,47142
+Analyst,3.0,1,1076,41777
+Analyst,4.0,0,649,44478
+Analyst,3.0,2,889,45128
+Analyst,2.0,0,814,48959
+Senior Analyst,4.0,3,540,52009
+Analyst,5.0,2,741,46697
+Analyst,2.0,1,935,43009
+Analyst,5.0,1,626,49928
+Associate,4.0,3,659,93342
+Analyst,5.0,0,500,42886
+Analyst,3.0,0,964,46693
+Analyst,3.0,0,1080,43677
+Senior Analyst,3.0,0,1431,52792
+Analyst,3.0,1,997,49300
+Analyst,3.0,0,358,45538
+Analyst,4.0,0,833,45538
+Associate,5.0,8,675,88539
+Analyst,2.0,3,462,46847
+Analyst,3.0,2,464,47248
+Analyst,3.0,0,592,43511
+Associate,3.0,2,625,98506
+Analyst,2.0,0,1026,46990
+Senior Analyst,4.0,4,846,69432
+Analyst,4.0,0,658,47469
+Senior Analyst,2.0,0,1218,69231
+Analyst,5.0,1,729,49689
+Analyst,4.0,3,456,47786
+Analyst,2.0,2,511,46116
+Analyst,2.0,0,739,42481
+Analyst,2.0,3,399,48484
+Analyst,3.0,0,936,47216
+Associate,3.0,7,797,86819
+Senior Analyst,4.0,0,723,55885
+Senior Manager,2.0,14,354,177412
+Senior Analyst,2.0,4,390,69716
+Analyst,5.0,0,344,49831
+Analyst,3.0,2,454,48410
+Analyst,4.0,0,493,47201
+Analyst,5.0,0,941,42384
+Analyst,2.0,0,910,44657
+Analyst,4.0,0,1078,46142
+Associate,4.0,3,1157,92590
+Analyst,4.0,0,893,45755
+Analyst,5.0,0,404,44469
+Analyst,5.0,0,765,44744
+Senior Analyst,2.0,2,1116,62659
+Analyst,2.0,1,514,48317
+Analyst,5.0,0,983,49444
+Senior Analyst,5.0,0,1231,61787
+Analyst,5.0,0,494,45179
+Analyst,5.0,3,352,44428
+Analyst,5.0,0,559,42819
+Senior Analyst,5.0,0,1071,65110
+Associate,2.0,1,1484,93996
+Analyst,4.0,1,749,40406
+Analyst,5.0,0,840,43923
+Analyst,4.0,1,842,43121
+Analyst,5.0,0,968,48246
+Analyst,2.0,0,838,47668
+Senior Analyst,4.0,0,440,51747
+Associate,5.0,1,1566,86702
+Analyst,2.0,0,732,42132
+Senior Analyst,2.0,5,594,51640
+Analyst,3.0,0,915,47755
+Analyst,4.0,0,608,49660
+Analyst,3.0,0,363,49826
+Analyst,3.0,0,762,46839
+Analyst,2.0,0,842,48203
+Analyst,4.0,1,499,48869
+Senior Manager,2.0,8,1184,181470
+Senior Analyst,3.0,0,943,69590
+Analyst,3.0,0,642,45513
+Analyst,5.0,0,774,47769
+Analyst,2.0,3,528,48171
+Analyst,2.0,0,1031,45551
+Analyst,2.0,0,692,49206
+Associate,4.0,4,1271,75658
+Analyst,5.0,0,842,40832
+Analyst,3.0,0,703,47376
+Analyst,4.0,0,1091,44220
+Senior Analyst,4.0,1,785,59246
+Analyst,5.0,2,835,49559
+Analyst,4.0,0,819,44806
+Analyst,4.0,0,396,49497
+Analyst,5.0,1,544,40935
+Analyst,5.0,0,722,48309
+Analyst,2.0,0,791,49108
+Manager,3.0,9,492,143333
+Senior Analyst,5.0,4,379,52198
+Analyst,3.0,1,1053,41928
+Senior Manager,5.0,9,1915,167378
+Analyst,4.0,2,500,48164
+Analyst,5.0,1,695,45450
+Associate,2.0,4,1578,78789
+Analyst,4.0,0,851,44305
+Analyst,3.0,0,856,45148
+Analyst,2.0,2,577,48915
+Analyst,3.0,0,714,45223
+Analyst,5.0,3,360,45485
+Manager,5.0,7,883,130749
+Senior Analyst,5.0,0,635,68290
+Analyst,5.0,1,514,41421
+Analyst,2.0,0,911,41904
+Analyst,4.0,0,655,49449
+Analyst,5.0,2,576,43794
+Analyst,3.0,0,438,42102
+Senior Analyst,3.0,3,466,54514
+Analyst,4.0,1,797,43415
+Analyst,4.0,1,1066,43528
+Analyst,3.0,0,643,47667
+Director,4.0,15,429,319742
+Analyst,4.0,2,817,47477
+Analyst,4.0,1,774,44620
+Senior Analyst,3.0,4,1196,69772
+Analyst,4.0,0,639,41455
+Analyst,2.0,0,943,48581
+Analyst,4.0,1,446,43959
+Analyst,3.0,2,408,41287
+Analyst,3.0,0,521,48546
+Analyst,2.0,3,364,49773
+Analyst,2.0,1,410,48772
+Analyst,3.0,1,908,41104
+Analyst,5.0,2,631,40553
+Analyst,3.0,0,579,48272
+Analyst,5.0,2,887,43438
+Analyst,4.0,1,907,48181
+Analyst,2.0,0,573,45331
+Analyst,3.0,0,674,42458
+Senior Analyst,2.0,0,615,65875
+Analyst,3.0,2,545,44108
+Analyst,5.0,0,672,46164
+Analyst,2.0,0,928,42493
+Analyst,5.0,0,916,46883
+Analyst,4.0,0,938,48587
+Analyst,5.0,0,1022,40950
+Senior Manager,5.0,10,914,190618
+Analyst,3.0,2,616,48784
+Analyst,3.0,1,790,44002
+Analyst,2.0,0,1020,43597
+Senior Analyst,2.0,5,499,64432
+Senior Analyst,2.0,1,596,50759
+Senior Analyst,3.0,4,581,69301
+Analyst,4.0,1,429,46217
+Analyst,5.0,0,923,47261
+Analyst,2.0,0,831,48818
+Analyst,2.0,0,814,48618
+Associate,2.0,6,664,91316
+Senior Manager,2.0,12,1749,154106
+Senior Manager,3.0,12,993,189307
+Analyst,5.0,0,633,44524
+Analyst,3.0,2,629,40361
+Analyst,4.0,0,377,44856
+Manager,2.0,6,1180,140762
+Analyst,3.0,3,441,47174
+Analyst,3.0,1,628,48441
+Analyst,2.0,0,486,45425
+Analyst,2.0,1,446,41404
+Analyst,5.0,0,1061,41743
+Analyst,4.0,1,768,43150
+Analyst,3.0,0,781,40014
+Senior Analyst,5.0,1,957,59121
+Analyst,4.0,0,1066,49418
+Analyst,3.0,2,822,41357
+Analyst,4.0,0,705,45856
+Analyst,2.0,0,555,45316
+Analyst,3.0,0,455,40332
+Analyst,4.0,0,399,41673
+Analyst,3.0,2,700,45188
+Analyst,3.0,0,809,47847
+Analyst,4.0,0,846,48427
+Analyst,2.0,0,815,44774
+Analyst,2.0,0,479,42997
+Analyst,3.0,0,584,48242
+Analyst,4.0,0,929,43356
+Analyst,2.0,0,698,46543
+Analyst,4.0,0,930,41610
+Analyst,2.0,0,514,41430
+Analyst,3.0,2,536,46779
+Analyst,5.0,2,742,40786
+Analyst,5.0,3,510,49492
+Associate,3.0,2,1600,93212
+Analyst,4.0,1,443,47691
+Analyst,3.0,0,1004,48127
+Analyst,4.0,1,393,42653
+Analyst,3.0,0,422,49237
+Analyst,3.0,0,1084,49070
+Analyst,5.0,2,621,47843
+Senior Manager,5.0,10,1536,197246
+Analyst,4.0,1,947,45986
+Analyst,2.0,0,1073,41500
+Senior Analyst,5.0,0,1006,60778
+Analyst,3.0,0,386,41124
+Analyst,3.0,0,782,40669
+Analyst,3.0,0,999,45278
+Analyst,4.0,2,722,45865
+Analyst,3.0,1,657,42662
+Senior Analyst,5.0,2,1370,67796
+Analyst,5.0,0,974,43669
+Analyst,2.0,0,385,48626
+Analyst,4.0,2,461,45324
+Analyst,3.0,0,626,49247
+Analyst,4.0,0,612,42737
+Analyst,4.0,0,610,45545
+Analyst,5.0,1,583,44212
+Analyst,4.0,0,675,49736
+Analyst,5.0,1,347,49512
+Manager,4.0,2,1758,104916
+Senior Analyst,3.0,5,438,67198
+Analyst,5.0,1,941,42637
+Analyst,3.0,0,1051,45768
+Analyst,3.0,2,681,43259
+Analyst,2.0,0,927,47050
+Analyst,5.0,0,1050,41506
+Analyst,5.0,0,667,42125
+Senior Analyst,2.0,0,715,60827
+Senior Analyst,3.0,1,494,61311
+Analyst,2.0,1,894,41248
+Analyst,2.0,0,652,47945
+Analyst,5.0,1,514,40240
+Analyst,5.0,2,815,43615
+Analyst,3.0,2,603,46650
+Analyst,2.0,1,526,48148
+Analyst,4.0,0,1010,43939
+Analyst,5.0,0,686,40718
+Analyst,5.0,0,934,47985
+Analyst,5.0,0,796,44412
+Analyst,4.0,0,1095,44832
+Analyst,5.0,0,710,48161
+Analyst,2.0,0,1058,41981
+Analyst,3.0,0,1010,45477
+Analyst,4.0,0,977,47890
+Analyst,2.0,0,821,48736
+Analyst,2.0,0,392,47334
+Senior Analyst,5.0,0,1432,61742
+Analyst,3.0,0,651,48995
+Analyst,4.0,0,618,47316
+Analyst,4.0,1,1036,45125
+Analyst,4.0,0,860,49235
+Manager,4.0,8,1252,117726
+Analyst,3.0,1,458,49095
+Associate,4.0,8,843,94212
+Analyst,4.0,2,780,42014
+Analyst,2.0,0,357,44193
+Analyst,4.0,0,850,46510
+Analyst,3.0,0,895,48482
+Analyst,2.0,0,722,45715
+Analyst,3.0,0,929,46215
+Director,5.0,12,1770,319407
+Analyst,5.0,0,571,40920
+Analyst,4.0,2,674,48792
+Analyst,5.0,0,499,43873
+Analyst,3.0,1,893,45321
+Analyst,2.0,0,828,46848
+Senior Analyst,5.0,0,1276,50680
+Analyst,2.0,0,712,46471
+Senior Analyst,4.0,0,1179,57896
+Analyst,5.0,1,665,45340
+Analyst,5.0,1,509,49873
+Analyst,2.0,1,369,43257
+Analyst,4.0,0,959,45062
+Analyst,4.0,0,452,44513
+Analyst,5.0,3,527,44566
+Analyst,2.0,0,746,40372
+Senior Analyst,4.0,0,972,62595
+Manager,5.0,5,610,124060
+Associate,3.0,3,1724,90512
+Analyst,2.0,3,434,41853
+Analyst,3.0,0,610,43548
+Senior Analyst,4.0,3,948,59675
+Analyst,4.0,0,1084,42398
+Senior Analyst,5.0,0,1442,61638
+Analyst,2.0,2,513,42791
+Senior Analyst,3.0,2,357,64193
+Analyst,5.0,1,941,48366
+Analyst,4.0,1,983,48470
+Senior Analyst,4.0,0,1125,56430
+Analyst,4.0,0,1003,42910
+Analyst,2.0,2,385,46265
+Associate,2.0,0,1521,90134
+Manager,4.0,5,1182,126294
+Senior Analyst,3.0,1,392,56291
+Senior Analyst,4.0,1,615,69329
+Associate,5.0,1,1717,78274
+Analyst,3.0,0,645,43681
+Senior Manager,3.0,6,1845,179845
+Analyst,5.0,0,437,49453
+Analyst,4.0,0,535,44447
+Analyst,3.0,1,456,43319
+Analyst,4.0,0,925,44837
+Analyst,2.0,3,449,43380
+Senior Analyst,2.0,3,1128,57913
+Senior Analyst,5.0,1,1030,64737
+Analyst,5.0,0,884,46261
+Analyst,2.0,0,716,41899
+Analyst,4.0,0,840,48624
+Associate,5.0,1,1509,73718
+Associate,3.0,1,1651,92460
+Analyst,3.0,1,644,44630
+Analyst,4.0,0,609,48067
+Analyst,5.0,1,730,43721
+Associate,3.0,5,772,91035
+Senior Analyst,5.0,0,1290,66250
+Analyst,2.0,2,413,44576
+Analyst,3.0,0,792,46927
+Analyst,5.0,0,668,49712
+Analyst,4.0,0,440,46772
+Manager,2.0,11,893,138812
+Analyst,5.0,1,359,40196
+Senior Analyst,4.0,1,1336,51084
+Analyst,3.0,1,948,46927
+Analyst,2.0,1,756,46349
+Senior Analyst,2.0,0,1405,50343
+Analyst,2.0,2,457,45507
+Associate,5.0,2,1743,81319
+Analyst,3.0,1,980,46322
+Analyst,2.0,0,1016,42950
+Analyst,5.0,2,459,48660
+Analyst,3.0,1,790,41920
+Analyst,2.0,0,1002,47754
+Analyst,4.0,0,807,42395
+Analyst,3.0,0,725,44555
+Analyst,5.0,3,345,44112
+Analyst,3.0,0,687,46029
+Analyst,5.0,0,817,47134
+Analyst,4.0,1,412,47736
+Analyst,3.0,0,813,45460
+Senior Analyst,2.0,0,617,58872
+Analyst,5.0,1,1037,48458
+Analyst,4.0,0,582,44178
+Analyst,2.0,0,1082,41045
+Analyst,2.0,0,942,45193
+Analyst,4.0,0,969,42853
+Analyst,4.0,0,1034,49633
+Analyst,5.0,1,515,45306
+Manager,4.0,7,1379,100874
+Analyst,4.0,2,616,43909
+Analyst,3.0,0,442,43907
+Analyst,3.0,0,526,43733
+Analyst,5.0,2,817,47464
+Senior Analyst,4.0,5,765,58617
+Analyst,2.0,1,422,41636
+Analyst,2.0,2,879,42886
+Associate,3.0,4,1798,89843
+Analyst,3.0,0,753,47018
+Analyst,3.0,2,450,40180
+Senior Analyst,4.0,0,1295,55790
+Analyst,2.0,2,444,47194
+Analyst,3.0,1,474,44799
+Analyst,2.0,0,715,49609
+Analyst,4.0,1,1091,48104
+Analyst,4.0,2,678,43125
+Senior Analyst,5.0,1,739,60520
+Analyst,3.0,0,457,41124
+Analyst,4.0,0,1044,47774
+Analyst,2.0,0,421,47013
+Senior Manager,3.0,8,1223,185205
+Analyst,3.0,0,1037,43777
+Analyst,4.0,0,1003,46703
+Analyst,2.0,0,872,43189
+Analyst,3.0,0,415,48035
+Analyst,3.0,2,794,41866
+Analyst,5.0,2,522,41466
+Associate,4.0,6,659,97684
+Senior Analyst,3.0,0,1357,59398
+Analyst,2.0,1,414,46783
+Analyst,4.0,0,1045,43240
+Analyst,4.0,0,712,48147
+Analyst,3.0,0,670,41929
+Analyst,2.0,0,804,49937
+Associate,4.0,6,724,97400
+Analyst,3.0,1,453,47203
+Senior Manager,4.0,10,1673,199060
+Analyst,2.0,0,1000,43900
+Analyst,5.0,0,701,45964
+Analyst,3.0,2,861,48823
+Analyst,2.0,0,590,43246
+Analyst,4.0,1,993,42096
+Analyst,4.0,2,514,46326
+Analyst,2.0,0,774,46367
+Analyst,2.0,1,651,43949
+Analyst,5.0,0,759,49140
+Analyst,5.0,1,683,47109
+Analyst,3.0,0,931,43210
+Analyst,3.0,0,538,40041
+Analyst,3.0,0,899,43383
+Associate,4.0,3,555,93279
+Analyst,4.0,1,484,44416
+Analyst,2.0,0,904,41741
+Analyst,3.0,2,728,40238
+Analyst,3.0,0,980,43429
+Analyst,2.0,3,362,42830
+Analyst,3.0,1,489,42837
+Senior Analyst,4.0,0,862,57169
+Analyst,2.0,1,698,45754
+Senior Analyst,3.0,1,1281,52739
+Analyst,4.0,0,977,48360
+Analyst,3.0,0,365,49610
+Analyst,2.0,1,406,48672
+Analyst,5.0,1,515,41756
+Analyst,2.0,0,742,43051
+Analyst,2.0,0,864,42895
+Senior Analyst,5.0,0,495,50524
+Analyst,5.0,3,472,45128
+Manager,4.0,4,1937,129334
+Analyst,3.0,2,385,46291
+Analyst,4.0,0,673,42455
+Associate,3.0,7,352,95039
+Analyst,2.0,0,953,49437
+Analyst,2.0,0,772,45108
+Analyst,5.0,0,1058,47577
+Associate,4.0,0,1443,98323
+Analyst,4.0,0,1080,40780
+Analyst,2.0,0,476,40001
+Analyst,4.0,0,834,46012
+Analyst,4.0,0,961,45380
+Associate,3.0,6,1094,75288
+Analyst,2.0,1,838,42376
+Analyst,5.0,0,1007,46734
+Analyst,5.0,0,838,42345
+Senior Analyst,4.0,3,1245,62859
+Analyst,5.0,0,993,41564
+Analyst,5.0,3,371,48808
+Analyst,3.0,3,412,42112
+Analyst,5.0,1,812,40310
+Manager,2.0,10,954,128068
+Analyst,3.0,0,839,48587
+Associate,5.0,1,1184,89965
+Analyst,5.0,3,432,47289
+Analyst,3.0,0,1063,46597
+Associate,5.0,2,710,95938
+Manager,4.0,8,1735,148890
+Analyst,4.0,0,1096,40551
+Analyst,2.0,0,1043,46127
+Senior Analyst,4.0,4,1137,56518
+Analyst,5.0,0,635,43096
+Analyst,3.0,0,874,48190
+Associate,2.0,4,434,97478
+Associate,2.0,2,1233,76887
+Analyst,2.0,0,1041,45619
+Analyst,2.0,2,651,45754
+Analyst,2.0,0,1089,45485
+Senior Analyst,2.0,1,1085,65806
+Analyst,4.0,2,531,48976
+Analyst,3.0,2,590,47530
+Senior Analyst,4.0,3,551,52324
+Analyst,5.0,3,361,43563
+Analyst,5.0,0,1022,48788
+Analyst,5.0,0,892,48240
+Analyst,3.0,3,484,47881
+Director,2.0,17,551,234374
+Analyst,4.0,0,833,45822
+Analyst,5.0,2,543,40318
+Analyst,4.0,0,861,48155
+Senior Analyst,4.0,1,799,51565
+Analyst,2.0,1,888,40285
+Analyst,3.0,0,345,40929
+Analyst,4.0,0,453,45528
+Analyst,5.0,1,929,41203
+Analyst,5.0,0,1022,42864
+Senior Analyst,5.0,1,974,62169
+Director,5.0,13,2364,294564
+Associate,5.0,6,878,92774
+Senior Analyst,2.0,0,1357,61956
+Analyst,5.0,1,501,44076
+Analyst,3.0,0,1067,44948
+Analyst,2.0,2,524,46935
+Analyst,3.0,2,697,41125
+Analyst,3.0,0,659,46151
+Analyst,3.0,0,896,42751
+Analyst,2.0,0,475,45487
+Senior Analyst,3.0,1,767,60125
+Senior Analyst,3.0,3,633,52224
+Analyst,3.0,0,832,42793
+Analyst,4.0,0,944,48393
+Senior Analyst,4.0,4,1182,60853
+Analyst,5.0,0,695,44412
+Analyst,3.0,0,733,45689
+Analyst,3.0,1,1088,44354
+Senior Analyst,2.0,0,1088,68026
+Analyst,5.0,2,658,47564
+Analyst,3.0,1,685,45344
+Senior Manager,4.0,10,1575,176158
+Analyst,4.0,0,964,46414
+Analyst,3.0,1,452,42962
+Manager,5.0,6,1647,137754
+Analyst,5.0,0,728,43797
+Analyst,4.0,0,814,44697
+Analyst,4.0,0,640,43393
+Analyst,4.0,1,350,47157
+Analyst,4.0,0,646,43172
+Manager,2.0,7,998,106755
+Analyst,5.0,0,787,40902
+Analyst,3.0,0,633,40013
+Analyst,3.0,1,958,43162
+Analyst,2.0,0,787,46612
+Analyst,5.0,0,602,47633
+Analyst,2.0,0,375,47039
+Analyst,5.0,2,864,48406
+Analyst,4.0,0,428,42840
+Analyst,4.0,2,867,46896
+Analyst,2.0,1,928,48362
+Senior Manager,2.0,10,1048,196857
+Analyst,3.0,0,1069,49432
+Analyst,4.0,1,702,42672
+Analyst,5.0,3,390,44373
+Senior Analyst,3.0,3,428,69223
+Manager,2.0,4,1113,138026
+Analyst,2.0,2,555,44129
+Analyst,3.0,2,600,47343
+Analyst,2.0,0,380,42375
+Analyst,4.0,2,640,45083
+Analyst,2.0,3,417,44202
+Senior Analyst,2.0,1,1387,59124
+Manager,2.0,7,1632,129305
+Analyst,3.0,3,494,47477
+Senior Analyst,4.0,3,710,52287
+Analyst,3.0,0,948,45527
+Analyst,3.0,0,978,45769
+Senior Manager,3.0,6,1805,192623
+Analyst,3.0,0,1043,48497
+Analyst,4.0,0,684,48007
+Analyst,4.0,1,638,41900
+Analyst,2.0,2,552,47257
+Analyst,2.0,0,765,40818
+Analyst,4.0,1,515,42981
+Analyst,5.0,0,1038,47677
+Senior Analyst,2.0,2,1333,60206
+Analyst,4.0,2,343,47439
+Analyst,5.0,2,669,42410
+Analyst,2.0,3,386,43194
+Analyst,2.0,2,810,48455
+Senior Manager,4.0,11,1194,180778
+Associate,3.0,3,1286,75024
+Analyst,4.0,0,350,40479
+Analyst,3.0,1,464,43436
+Senior Analyst,2.0,0,1407,63959
+Senior Analyst,3.0,3,1108,53517
+Associate,5.0,0,1713,99521
+Analyst,2.0,0,996,42897
+Analyst,5.0,0,514,44742
+Analyst,3.0,1,749,43748
+Analyst,2.0,1,476,47571
+Analyst,3.0,1,367,45816
+Senior Manager,5.0,9,1783,162639
+Analyst,4.0,1,623,49470
+Analyst,5.0,0,562,48529
+Analyst,5.0,2,428,43688
+Analyst,5.0,0,782,44104
+Analyst,4.0,0,819,48295
+Analyst,5.0,1,948,40634
+Analyst,4.0,2,469,45002
+Senior Analyst,4.0,4,1197,64248
+Analyst,3.0,0,758,48831
+Associate,3.0,8,1168,70154
+Analyst,5.0,0,390,46479
+Analyst,2.0,0,861,40567
+Analyst,3.0,0,974,42322
+Analyst,2.0,0,1018,48179
+Analyst,2.0,0,418,48082
+Analyst,4.0,1,358,46343
+Analyst,2.0,0,874,49974
+Analyst,5.0,0,997,45229
+Analyst,2.0,0,402,44160
+Analyst,2.0,0,973,44371
+Analyst,2.0,1,674,46820
+Analyst,4.0,0,807,40327
+Analyst,4.0,0,700,43481
+Analyst,4.0,0,803,42720
+Senior Manager,4.0,11,1401,172445
+Analyst,5.0,0,858,42839
+Analyst,5.0,1,433,49052
+Senior Analyst,2.0,1,1037,59481
+Analyst,2.0,1,897,47150
+Analyst,4.0,1,495,46690
+Senior Analyst,4.0,3,589,51240
+Analyst,3.0,0,476,46540
+Analyst,3.0,0,537,45300
+Analyst,5.0,1,728,45352
+Analyst,4.0,2,777,46071
+Analyst,4.0,0,651,42129
+Analyst,4.0,0,791,47597
+Analyst,3.0,1,573,41819
+Analyst,5.0,0,559,46741
+Analyst,3.0,1,535,47939
+Analyst,2.0,0,1074,43036
+Associate,4.0,5,1306,98716
+Analyst,3.0,0,971,49085
+Analyst,5.0,0,519,44681
+Analyst,5.0,2,548,45298
+Analyst,5.0,0,545,40384
+Senior Analyst,3.0,0,404,67458
+Senior Manager,3.0,13,1756,161799
+Analyst,3.0,0,625,45099
+Analyst,5.0,2,391,44472
+Analyst,3.0,0,699,46770
+Associate,2.0,6,1111,86993
+Analyst,4.0,1,480,44344
+Analyst,5.0,1,838,40986
+Senior Analyst,2.0,0,1400,68182
+Analyst,4.0,2,385,49955
+Analyst,3.0,0,496,48283
+Analyst,2.0,0,1064,47859
+Analyst,5.0,2,761,42666
+Analyst,3.0,1,1073,49931
+Analyst,4.0,0,594,41605
+Analyst,5.0,0,798,45927
+Analyst,4.0,0,381,42263
+Analyst,4.0,0,1090,44599
+Analyst,5.0,2,758,42210
+Analyst,3.0,2,581,41109
+Analyst,2.0,1,604,45342
+Analyst,4.0,0,557,42428
+Analyst,4.0,0,934,46076
+Analyst,3.0,0,994,46064
+Analyst,4.0,0,680,46966
+Analyst,2.0,2,360,41445
+Analyst,4.0,0,877,44598
+Senior Analyst,5.0,0,402,64137
+Associate,4.0,6,348,91920
+Analyst,4.0,2,845,46723
+Analyst,4.0,0,489,44350
+Analyst,2.0,0,895,41979
+Analyst,2.0,2,421,47723
+Analyst,2.0,0,475,45926
+Analyst,4.0,0,341,40040
+Analyst,3.0,2,832,46767
+Analyst,2.0,0,762,40886
+Analyst,3.0,3,505,44251
+Analyst,3.0,0,545,48682
+Senior Analyst,5.0,3,693,66184
+Analyst,5.0,1,538,45379
+Senior Analyst,4.0,3,1324,54749
+Analyst,3.0,0,481,47832
+Associate,4.0,4,966,92184
+Analyst,5.0,0,1000,46591
+Analyst,2.0,0,425,45673
+Senior Manager,5.0,9,1451,182134
+Analyst,4.0,1,841,49636
+Analyst,2.0,0,587,47376
+Analyst,4.0,0,627,45502
+Analyst,5.0,0,588,45370
+Analyst,2.0,2,457,48426
+Analyst,5.0,1,811,43144
+Director,3.0,13,1119,366063
+Senior Analyst,3.0,3,361,50266
+Analyst,4.0,1,399,41760
+Analyst,5.0,2,609,48877
+Associate,2.0,3,1413,96757
+Analyst,5.0,1,604,41714
+Senior Analyst,4.0,1,913,65552
+Analyst,5.0,2,604,45611
+Senior Analyst,4.0,1,600,65267
+Senior Analyst,4.0,0,1034,66184
+Analyst,2.0,0,624,40732
+Analyst,2.0,0,769,49030
+Analyst,3.0,1,567,48018
+Analyst,2.0,0,618,47104
+Analyst,4.0,1,471,40411
+Analyst,4.0,1,871,44069
+Analyst,4.0,1,440,45638
+Analyst,3.0,0,957,48667
+Associate,5.0,2,778,84840
+Manager,4.0,8,839,124680
+Analyst,4.0,0,1049,49537
+Analyst,3.0,3,411,40600
+Analyst,2.0,0,927,43464
+Analyst,5.0,1,554,43493
+Analyst,4.0,0,415,41863
+Analyst,2.0,0,735,47524
+Analyst,3.0,3,539,45534
+Analyst,3.0,0,486,41887
+Analyst,3.0,0,990,49434
+Analyst,2.0,0,1017,42992
+Analyst,5.0,0,1025,42086
+Analyst,2.0,3,471,44496
+Analyst,4.0,0,818,48492
+Analyst,3.0,0,926,44512
+Analyst,4.0,0,971,45515
+Analyst,2.0,1,971,48762
+Analyst,4.0,0,360,48182
+Analyst,3.0,0,609,42467
+Analyst,3.0,0,696,43482
+Analyst,2.0,0,878,41705
+Analyst,4.0,0,407,48751
+Analyst,2.0,0,536,42475
+Analyst,5.0,0,890,46854
+Analyst,3.0,0,941,43282
+Analyst,3.0,0,352,42641
+Analyst,4.0,0,855,49470
+Analyst,4.0,0,878,48160
+Analyst,3.0,0,950,41728
+Analyst,2.0,0,448,44976
+Analyst,2.0,1,353,44820
+Analyst,3.0,2,889,43833
+Manager,2.0,5,1366,100124
+Analyst,5.0,1,965,46572
+Analyst,5.0,3,392,45680
+Director,5.0,16,1415,225339
+Senior Manager,4.0,10,1412,195984
+Analyst,3.0,1,780,45870
+Associate,3.0,3,1345,78202
+Analyst,5.0,0,952,43378
+Analyst,5.0,0,1100,43587
+Associate,3.0,3,1045,85615
+Analyst,5.0,0,581,44675
+Analyst,5.0,0,548,42054
+Associate,3.0,7,692,94026
+Associate,5.0,8,1187,76072
+Manager,5.0,6,1339,138569
+Analyst,3.0,0,624,43990
+Analyst,4.0,2,523,46485
+Analyst,3.0,1,898,44684
+Analyst,5.0,2,405,47639
+Analyst,4.0,1,1028,40417
+Senior Analyst,2.0,4,911,65090
+Analyst,3.0,2,351,48436
+Senior Analyst,5.0,0,1394,56028
+Director,5.0,13,1883,213987
+Analyst,3.0,0,911,48934
+Analyst,2.0,0,657,40354
+Associate,4.0,8,485,83971
+Analyst,2.0,2,686,43066
+Senior Manager,3.0,6,1517,197526
+Analyst,5.0,3,468,47499
+Analyst,2.0,0,1085,42122
+Analyst,3.0,0,1053,48661
+Analyst,5.0,0,923,43433
+Analyst,2.0,0,652,41452
+Senior Analyst,3.0,0,1354,59877
+Analyst,5.0,0,1055,48769
+Analyst,4.0,0,948,45221
+Analyst,2.0,1,372,40524
+Analyst,2.0,2,575,47692
+Senior Analyst,2.0,3,1132,59310
+Analyst,5.0,0,927,48849
+Senior Manager,4.0,14,404,178590
+Analyst,5.0,0,351,45774
+Manager,5.0,6,2162,144095
+Senior Analyst,3.0,1,939,54987
+Manager,4.0,8,1201,118174
+Analyst,3.0,1,459,40356
+Analyst,4.0,0,636,47755
+Analyst,2.0,1,474,48302
+Senior Analyst,2.0,0,1238,56004
+Associate,2.0,4,853,83197
+Analyst,5.0,0,814,47668
+Associate,3.0,1,1725,86413
+Senior Manager,3.0,13,941,158394
+Analyst,4.0,1,545,48602
+Senior Analyst,4.0,1,613,52355
+Analyst,5.0,2,584,40704
+Analyst,4.0,1,1097,40113
+Analyst,3.0,0,727,47880
+Analyst,2.0,0,588,43188
+Senior Analyst,3.0,2,742,53535
+Analyst,3.0,2,413,44149
+Senior Analyst,3.0,2,1052,51369
+Analyst,5.0,3,506,41668
+Analyst,2.0,2,464,40727
+Analyst,3.0,0,833,45249
+Analyst,5.0,2,561,41688
+Senior Analyst,3.0,2,422,55791
+Analyst,3.0,0,570,41467
+Analyst,5.0,0,666,45230
+Analyst,4.0,0,693,41020
+Senior Analyst,2.0,0,1423,55980
+Senior Analyst,5.0,0,1016,51423
+Analyst,4.0,1,927,48536
+Analyst,5.0,1,891,44359
+Manager,3.0,5,1293,120988
+Senior Analyst,4.0,4,606,57569
+Analyst,2.0,1,499,43343
+Analyst,2.0,0,501,47072
+Analyst,3.0,0,918,46074
+Senior Manager,5.0,10,1304,193319
+Senior Manager,5.0,12,426,151903
+Analyst,4.0,1,354,45514
+Analyst,2.0,3,357,48722
+Analyst,2.0,0,910,45522
+Analyst,5.0,1,709,46776
+Analyst,4.0,2,569,46779
+Analyst,3.0,0,749,48752
+Analyst,2.0,1,798,41950
+Senior Analyst,3.0,1,843,57923
+Analyst,5.0,0,687,48413
+Manager,2.0,4,1667,135210
+Analyst,3.0,2,756,47250
+Analyst,4.0,0,948,43472
+Associate,4.0,4,611,96876
+Analyst,2.0,1,1028,48180
+Associate,2.0,8,540,80367
+Analyst,2.0,0,577,48070
+Manager,5.0,11,598,140823
+Analyst,5.0,0,541,41416
+Manager,4.0,5,2140,132054
+Analyst,2.0,1,483,42280
+Analyst,5.0,2,512,45464
+Analyst,5.0,2,753,45761
+Associate,4.0,2,881,72237
+Senior Analyst,4.0,4,476,51441
+Analyst,2.0,0,438,46540
+Analyst,5.0,1,690,45963
+Senior Manager,5.0,13,1173,190626
+Analyst,5.0,0,911,48650
+Analyst,4.0,0,1071,42250
+Senior Analyst,4.0,1,867,64060
+Analyst,3.0,0,345,42627
+Analyst,3.0,0,910,41487
+Analyst,5.0,2,462,40985
+Analyst,4.0,0,1067,46247
+Analyst,5.0,0,1077,43681
+Analyst,4.0,0,1069,43161
+Associate,5.0,0,1738,70589
+Senior Analyst,3.0,1,1458,52533
+Analyst,4.0,0,1078,41726
+Analyst,3.0,2,741,45674
+Analyst,4.0,0,663,48225
+Analyst,5.0,0,822,43414
+Associate,4.0,6,1134,81901
+Analyst,2.0,1,704,48122
+Analyst,5.0,0,910,41657
+Analyst,5.0,0,635,40485
+Analyst,3.0,0,794,45836
+Analyst,5.0,0,931,43168
+Analyst,3.0,0,730,48467
+Analyst,5.0,1,410,45696
+Analyst,2.0,0,856,47719
+Analyst,3.0,0,409,41290
+Analyst,2.0,0,570,46550
+Analyst,3.0,3,378,48263
+Analyst,3.0,0,980,46312
+Analyst,4.0,0,740,48854
+Senior Analyst,3.0,0,1237,52567
+Analyst,2.0,1,450,49095
+Analyst,2.0,0,884,47248
+Analyst,5.0,0,920,44364
+Analyst,3.0,0,980,48482
+Manager,3.0,7,1998,121962
+Analyst,5.0,0,463,48305
+Analyst,4.0,3,464,41194
+Analyst,5.0,3,518,49748
+Senior Analyst,3.0,5,667,58566
+Director,2.0,15,689,301872
+Senior Analyst,4.0,1,454,66227
+Analyst,3.0,0,1013,46105
+Senior Analyst,2.0,2,1412,51055
+Senior Manager,4.0,14,446,197900
+Analyst,4.0,2,673,42221
+Analyst,3.0,1,1081,41308
+Analyst,3.0,1,392,45374
+Analyst,3.0,2,492,42897
+Analyst,5.0,0,972,48046
+Analyst,4.0,0,684,44997
+Analyst,5.0,0,845,40787
+Associate,2.0,1,1595,71488
+Senior Analyst,5.0,0,971,51377
+Analyst,2.0,0,967,45528
+Analyst,3.0,0,1000,43740
+Analyst,4.0,1,566,43681
+Director,5.0,11,2392,236901
+Analyst,3.0,3,379,44448
+Analyst,3.0,0,737,49141
+Analyst,5.0,1,886,45589
+Analyst,3.0,1,454,42055
+Analyst,5.0,0,863,46640
+Analyst,4.0,0,1002,43385
+Analyst,3.0,1,807,40567
+Analyst,3.0,0,930,43932
+Analyst,4.0,2,353,41386
+Analyst,3.0,0,611,42240
+Analyst,3.0,0,697,41257
+Associate,5.0,6,1261,74929
+Analyst,3.0,2,349,46509
+Analyst,3.0,2,376,48082
+Analyst,5.0,1,892,43710
+Analyst,4.0,2,362,43464
+Associate,3.0,1,1432,84058
+Analyst,5.0,0,1033,47029
+Analyst,2.0,0,701,49634
+Analyst,3.0,0,755,45349
+Analyst,5.0,1,943,42306
+Analyst,3.0,0,718,48860
+Analyst,3.0,2,734,48923
+Associate,2.0,4,397,82388
+Analyst,5.0,0,922,40992
+Analyst,4.0,2,610,43176
+Analyst,4.0,0,1034,41132
+Analyst,4.0,0,758,42624
+Analyst,2.0,0,756,43308
+Senior Analyst,2.0,3,867,50492
+Analyst,4.0,0,782,40698
+Analyst,5.0,2,737,46788
+Analyst,5.0,0,971,40246
+Analyst,3.0,0,1092,45957
+Analyst,3.0,1,581,42952
+Analyst,3.0,1,362,47266
+Senior Analyst,5.0,2,437,56552
+Manager,2.0,7,596,105657
+Analyst,5.0,0,545,48572
+Analyst,3.0,1,881,48414
+Analyst,3.0,2,349,42144
+Analyst,5.0,0,1003,44044
+Analyst,4.0,0,990,48695
+Analyst,3.0,0,496,42395
+Manager,4.0,7,635,100764
+Manager,4.0,9,394,142291
+Analyst,3.0,2,599,48776
+Analyst,3.0,1,490,43063
+Senior Analyst,3.0,0,1331,58290
+Analyst,2.0,0,500,45054
+Analyst,4.0,2,688,43272
+Analyst,5.0,1,420,43260
+Analyst,4.0,1,536,42237
+Senior Analyst,5.0,2,402,58366
+Analyst,4.0,2,376,46351
+Analyst,3.0,0,457,41381
+Analyst,5.0,1,358,45704
+Associate,2.0,0,1807,97161
+Senior Analyst,2.0,0,732,67194
+Analyst,3.0,0,469,44919
+Analyst,3.0,1,810,48841
+Senior Analyst,2.0,0,1341,60987
+Senior Analyst,5.0,0,1191,56926
+Analyst,2.0,0,1057,40684
+Senior Manager,2.0,8,1199,170971
+Analyst,2.0,0,1057,48511
+Analyst,2.0,0,501,40271
+Analyst,4.0,1,770,42805
+Analyst,5.0,0,492,48030
+Analyst,2.0,0,942,48730
+Analyst,5.0,0,902,44638
+Analyst,2.0,2,758,43592
+Senior Analyst,4.0,0,423,52704
+Senior Analyst,5.0,0,1365,62533
+Analyst,5.0,0,615,41144
+Analyst,5.0,0,602,48025
+Analyst,2.0,0,829,45621
+Analyst,5.0,1,1012,43453
+Analyst,5.0,2,476,48042
+Director,4.0,15,799,225412
+Associate,3.0,6,395,88029
+Analyst,4.0,2,597,49968
+Senior Analyst,5.0,0,1138,62791
+Analyst,5.0,1,370,40403
+Senior Analyst,3.0,5,425,66747
+Analyst,3.0,0,429,41962
+Analyst,4.0,0,582,48240
+Analyst,2.0,0,1023,45631
+Associate,2.0,1,831,94962
+Analyst,2.0,0,491,45371
+Analyst,3.0,1,369,41888
+Analyst,2.0,0,605,42822
+Analyst,5.0,1,721,43900
+Analyst,3.0,2,517,47588
+Analyst,3.0,1,374,43818
+Associate,2.0,5,565,75507
+Analyst,3.0,1,713,49822
+Senior Analyst,5.0,0,399,64540
+Analyst,4.0,0,1023,41720
+Analyst,5.0,0,1082,40900
+Senior Analyst,4.0,1,1086,66540
+Analyst,4.0,0,1089,41394
+Analyst,3.0,2,507,44946
+Analyst,4.0,0,991,49624
+Analyst,2.0,0,720,47590
+Analyst,3.0,0,732,49296
+Analyst,5.0,1,1072,45729
+Senior Analyst,2.0,2,997,51184
+Senior Analyst,4.0,1,1439,53602
+Analyst,4.0,0,732,40312
+Analyst,4.0,0,724,46325
+Analyst,2.0,0,732,41930
+Analyst,4.0,1,872,42289
+Analyst,5.0,2,407,45748
+Analyst,2.0,0,623,41273
+Analyst,5.0,0,528,44391
+Analyst,4.0,2,584,47051
+Senior Manager,2.0,9,1715,176567
+Manager,2.0,9,1332,123504
+Analyst,2.0,0,434,48789
+Analyst,2.0,0,993,42760
+Analyst,3.0,1,876,48451
+Analyst,4.0,1,1034,49310
+Senior Manager,4.0,9,1812,190414
+Analyst,4.0,0,824,42538
+Analyst,3.0,2,501,49469
+Analyst,4.0,0,624,41457
+Analyst,3.0,0,789,47534
+Analyst,3.0,0,1031,47658
+Manager,5.0,6,1891,139615
+Analyst,3.0,0,387,44103
+Analyst,3.0,0,418,41694
+Analyst,4.0,0,547,45185
+Analyst,5.0,1,728,44938
+Analyst,3.0,1,1033,41546
+Associate,3.0,3,1810,86548
+Analyst,3.0,0,1082,42056
+Analyst,3.0,2,858,49190
+Analyst,3.0,0,1056,45716
+Associate,3.0,2,1776,77015
+Analyst,3.0,1,735,42527
+Director,3.0,12,1880,355337
+Senior Manager,2.0,8,1255,170611
+Analyst,2.0,2,792,47893
+Analyst,5.0,2,858,46808
+Analyst,5.0,0,575,45815
+Manager,3.0,11,1119,103289
+Analyst,3.0,2,807,44025
+Analyst,4.0,0,1065,44005
+Manager,2.0,4,2045,119570
+Associate,2.0,5,1238,92350
+Analyst,2.0,1,870,46791
+Analyst,2.0,0,984,48223
+Analyst,2.0,1,940,40149
+Analyst,2.0,0,575,47674
+Analyst,3.0,0,391,48939
+Analyst,3.0,0,976,44100
+Senior Analyst,2.0,2,1220,58051
+Analyst,5.0,0,954,47877
+Analyst,3.0,0,724,46157
+Analyst,4.0,0,379,42047
+Analyst,3.0,0,531,46999
+Analyst,3.0,0,1017,45131
+Analyst,4.0,0,1047,46862
+Analyst,3.0,1,392,49015
+Associate,4.0,2,756,80173
+Analyst,2.0,0,383,43113
+Associate,3.0,5,1147,86669
+Analyst,3.0,0,837,40397
+Analyst,2.0,0,476,44694
+Associate,4.0,5,961,97946
+Analyst,3.0,1,589,41396
+Analyst,5.0,1,992,42280
+Senior Analyst,2.0,4,488,61390
+Analyst,4.0,1,847,43310
+Senior Analyst,5.0,2,432,60522
+Analyst,3.0,2,599,45081
+Manager,4.0,6,1515,144332
+Analyst,5.0,0,488,49576
+Analyst,2.0,1,801,40329
+Analyst,5.0,2,586,41781
+Analyst,2.0,2,722,49522
+Senior Analyst,2.0,3,592,65656
+Analyst,3.0,1,822,49949
+Analyst,4.0,2,701,40161
+Analyst,5.0,1,691,42052
+Analyst,2.0,0,1038,45722
+Associate,2.0,3,928,78615
+Analyst,3.0,1,476,40565
+Analyst,3.0,0,928,46662
+Senior Manager,2.0,11,2147,190850
+Analyst,2.0,1,1060,40752
+Analyst,3.0,1,463,41988
+Analyst,4.0,2,571,43328
+Senior Analyst,3.0,2,696,58848
+Analyst,4.0,0,669,44718
+Analyst,2.0,3,488,40231
+Senior Analyst,5.0,0,723,54475
+Analyst,4.0,0,774,40085
+Analyst,4.0,0,1053,49666
+Analyst,3.0,0,379,45277
+Analyst,5.0,2,486,44002
+Analyst,4.0,0,915,45621
+Analyst,4.0,1,600,40578
+Analyst,5.0,0,944,42879
+Analyst,2.0,0,465,40095
+Analyst,4.0,0,588,49364
+Senior Analyst,2.0,0,963,58428
+Analyst,4.0,1,696,40043
+Analyst,3.0,0,674,41193
+Analyst,3.0,1,837,49045
+Analyst,5.0,0,1082,47291
+Analyst,2.0,2,785,45296
+Analyst,4.0,0,425,44281
+Senior Analyst,5.0,0,914,50605
+Analyst,3.0,0,897,48858
+Senior Analyst,3.0,0,627,57783
+Senior Analyst,5.0,3,1466,61413
+Analyst,5.0,2,771,43074
+Analyst,5.0,0,925,46659
+Analyst,5.0,1,1080,43893
+Analyst,4.0,0,863,40526
+Analyst,3.0,3,447,48903
+Manager,3.0,4,1210,130328
+Analyst,5.0,0,852,43886
+Analyst,4.0,0,556,49868
+Analyst,3.0,1,537,43964
+Analyst,3.0,0,378,45721
+Analyst,3.0,1,951,44738
+Analyst,3.0,0,996,41365
+Analyst,5.0,0,1016,41159
+Analyst,3.0,0,793,43328
+Analyst,4.0,1,1043,40219
+Analyst,4.0,0,867,41718
+Analyst,4.0,0,893,41304
+Analyst,5.0,0,552,42012
+Analyst,2.0,2,898,41619
+Analyst,3.0,0,803,48976
+Analyst,2.0,0,868,46224
+Analyst,5.0,0,880,41144
+Analyst,2.0,0,733,44850
+Analyst,4.0,0,789,48279
+Analyst,4.0,0,637,47061
+Analyst,3.0,0,861,47422
+Analyst,4.0,0,426,44602
+Analyst,3.0,3,348,40288
+Senior Analyst,5.0,4,658,63156
+Analyst,4.0,0,472,49896
+Analyst,4.0,0,540,46427
+Analyst,5.0,2,363,44795
+Analyst,2.0,1,676,49183
+Analyst,4.0,2,852,48042
+Analyst,2.0,1,642,46126
+Analyst,5.0,2,594,40946
+Analyst,4.0,0,1058,48808
+Analyst,2.0,3,512,46956
+Analyst,4.0,0,1004,43201
+Senior Analyst,3.0,0,1210,61368
+Analyst,2.0,1,864,47890
+Associate,4.0,4,440,71816
+Analyst,3.0,2,850,44182
+Analyst,4.0,2,699,49466
+Analyst,4.0,2,406,40927
+Manager,2.0,9,461,110064
+Analyst,2.0,1,688,41904
+Associate,3.0,1,1807,99505
+Analyst,3.0,0,849,49980
+Analyst,4.0,0,561,42277
+Analyst,5.0,0,1030,47500
+Analyst,2.0,0,504,49785
+Analyst,4.0,0,512,45319
+Analyst,2.0,1,655,45329
+Analyst,5.0,0,495,41225
+Analyst,3.0,1,859,47143
+Analyst,5.0,0,448,43064
+Analyst,4.0,0,606,41277
+Analyst,4.0,0,994,47458
+Analyst,3.0,0,748,41608
+Senior Analyst,2.0,0,1035,60352
+Analyst,4.0,0,654,44988
+Analyst,2.0,1,916,46004
+Analyst,2.0,2,751,41135
+Manager,5.0,10,448,147110
+Associate,5.0,3,1266,88069
+Analyst,5.0,0,935,41146
+Senior Analyst,2.0,1,454,50084
+Analyst,2.0,2,676,46519
+Analyst,5.0,0,810,40438
+Associate,2.0,6,730,94836
+Senior Analyst,4.0,0,1205,66244
+Analyst,3.0,2,682,49706
+Associate,3.0,5,1057,75780
+Analyst,3.0,0,738,43902
+Director,4.0,15,958,270193
+Analyst,5.0,3,398,49766
+Analyst,3.0,0,1035,45000
+Senior Analyst,5.0,2,739,69966
+Analyst,4.0,1,734,41679
+Analyst,4.0,2,658,42466
+Analyst,4.0,3,379,44366
+Analyst,2.0,2,601,48098
+Analyst,5.0,0,848,42225
+Associate,5.0,2,1368,70567
+Senior Analyst,3.0,1,544,57497
+Senior Analyst,2.0,0,1277,54573
+Associate,2.0,2,964,76494
+Analyst,3.0,0,910,48177
+Analyst,5.0,2,427,49866
+Associate,4.0,6,497,79118
+Analyst,2.0,1,633,46043
+Manager,2.0,7,1310,114239
+Analyst,2.0,1,1070,48353
+Analyst,4.0,0,755,46644
+Analyst,2.0,2,560,41071
+Senior Analyst,2.0,0,1188,60307
+Manager,3.0,6,827,103640
+Senior Analyst,5.0,1,1270,60394
+Analyst,2.0,0,688,41353
+Senior Analyst,2.0,5,350,59182
+Analyst,3.0,1,587,40820
+Analyst,4.0,0,879,42828
+Analyst,5.0,0,557,46137
+Analyst,4.0,0,468,46306
+Analyst,2.0,2,585,41942
+Analyst,4.0,0,1043,46669
+Analyst,5.0,3,514,48363
+Manager,2.0,6,968,128247
+Analyst,5.0,0,1060,48015
+Senior Analyst,3.0,0,1021,55455
+Analyst,2.0,1,951,42735
+Analyst,5.0,3,473,41956
+Analyst,2.0,0,422,48868
+Analyst,5.0,1,998,46623
+Analyst,4.0,2,394,47899
+Analyst,4.0,0,953,40188
+Associate,2.0,7,924,91602
+Analyst,2.0,0,633,49048
+Analyst,2.0,2,410,41412
+Analyst,3.0,1,449,41951
+Analyst,2.0,2,388,45896
+Analyst,3.0,2,582,45597
+Senior Manager,4.0,16,506,151373
+Senior Analyst,3.0,1,662,65596
+Analyst,5.0,3,378,42494
+Analyst,3.0,1,719,41312
+Analyst,4.0,0,472,48555
+Analyst,3.0,0,835,49632
+Associate,5.0,3,1322,89791
+Analyst,4.0,0,650,44886
+Analyst,4.0,1,956,40886
+Senior Analyst,2.0,0,798,65383
+Director,2.0,18,1265,320148
+Analyst,2.0,0,1078,48696
+Analyst,5.0,1,493,47701
+Director,4.0,15,1230,232682
+Analyst,2.0,0,915,42747
+Analyst,2.0,0,1012,46170
+Analyst,2.0,0,879,45997
+Analyst,2.0,0,1086,48962
+Analyst,4.0,0,925,42847
+Analyst,5.0,2,402,40704
+Senior Analyst,5.0,5,698,61867
+Analyst,4.0,0,558,48067
+Analyst,5.0,1,459,48939
+Analyst,3.0,0,377,41230
+Analyst,3.0,0,490,41449
+Associate,3.0,2,974,93073
+Analyst,4.0,0,1020,42625
+Analyst,3.0,0,1041,47458
+Analyst,3.0,0,1086,43070
+Analyst,5.0,0,910,40431
+Manager,5.0,9,702,141477
+Analyst,4.0,2,778,45555
+Senior Analyst,3.0,2,810,58745
+Analyst,5.0,3,537,41580
+Analyst,2.0,1,991,45739
+Director,5.0,11,2138,218098
+Analyst,2.0,2,847,40935
+Analyst,2.0,2,576,41310
+Senior Analyst,3.0,0,1380,52071
+Analyst,2.0,2,372,44594
+Analyst,2.0,0,1082,49957
+Analyst,4.0,0,1073,48993
+Associate,4.0,5,1543,89043
+Associate,5.0,3,1538,96276
+Analyst,3.0,0,534,47904
+Analyst,2.0,0,961,43835
+Senior Manager,2.0,8,1277,177587
+Analyst,5.0,0,759,43628
+Analyst,4.0,0,743,49592
+Analyst,3.0,0,433,48331
+Senior Analyst,4.0,5,788,68604
+Associate,4.0,6,1637,71026
+Analyst,2.0,0,476,47014
+Analyst,2.0,0,916,41329
+Manager,4.0,6,1737,129107
+Analyst,2.0,1,890,43714
+Analyst,2.0,0,1085,40031
+Analyst,4.0,0,888,44739
+Analyst,4.0,2,790,49499
+Senior Analyst,2.0,0,604,53988
+Associate,5.0,7,903,99412
+Analyst,2.0,0,1019,46071
+Analyst,2.0,0,888,47148
+Analyst,3.0,0,574,43007
+Analyst,4.0,0,718,46469
+Manager,2.0,5,1173,100952
+Analyst,2.0,2,406,48114
+Senior Analyst,2.0,0,844,58736
+Analyst,5.0,1,810,42037
+Analyst,5.0,1,487,44538
+Senior Analyst,5.0,0,799,68319
+Senior Analyst,2.0,2,904,65324
+Analyst,5.0,0,571,45042
+Analyst,2.0,0,697,47305
+Analyst,2.0,0,950,43776
+Analyst,4.0,0,829,41621
+Analyst,5.0,0,451,43542
+Associate,5.0,7,730,92074
+Analyst,3.0,0,1013,45735
+Analyst,4.0,0,724,44767
+Analyst,3.0,2,879,45429
+Analyst,3.0,1,423,41786
+Analyst,3.0,0,707,47143
+Analyst,3.0,2,629,47286
+Analyst,5.0,0,914,47892
+Analyst,5.0,0,361,41250
+Analyst,4.0,0,401,41953
+Analyst,4.0,0,384,46244
+Associate,4.0,6,751,87011
+Analyst,4.0,1,743,49529
+Analyst,2.0,0,678,46752
+Analyst,4.0,1,583,45402
+Analyst,3.0,0,807,41142
+Analyst,3.0,0,839,48221
+Manager,2.0,4,1428,102996
+Senior Analyst,3.0,3,380,60990
+Associate,4.0,6,1433,91767
+Analyst,4.0,0,431,45781
+Analyst,5.0,0,1047,48049
+Analyst,5.0,1,846,49368
+Associate,4.0,6,453,88400
+Associate,2.0,4,378,94321
+Analyst,3.0,0,495,45411
+Analyst,5.0,1,412,48612
+Senior Analyst,5.0,4,423,64108
+Analyst,4.0,0,977,48198
+Associate,3.0,2,1773,86942
+Analyst,5.0,1,867,46471
+Analyst,3.0,1,625,44649
+Senior Analyst,5.0,3,902,54048
+Analyst,2.0,1,565,45217
+Director,3.0,16,356,324129
+Analyst,3.0,1,699,40570
+Analyst,5.0,2,736,45011
+Analyst,2.0,0,1041,47547
+Analyst,3.0,0,1020,49798
+Analyst,5.0,0,1076,44824
+Analyst,4.0,0,1076,41192
+Analyst,4.0,1,1053,46295
+Analyst,5.0,1,1074,47135
+Analyst,3.0,1,815,41845
+Senior Analyst,3.0,0,1052,52678
+Analyst,4.0,3,385,44039
+Associate,5.0,3,1518,83947
+Analyst,2.0,3,467,49173
+Analyst,2.0,0,939,40340
+Analyst,2.0,0,1086,49032
+Senior Analyst,2.0,1,1392,58638
+Senior Analyst,5.0,0,1358,52225
+Analyst,3.0,0,993,40980
+Analyst,3.0,0,612,45335
+Analyst,2.0,0,431,41593
+Analyst,4.0,2,592,43910
+Senior Analyst,2.0,0,1391,66563
+Analyst,4.0,0,973,45573
+Analyst,2.0,0,376,46241
+Analyst,3.0,1,810,44892
+Analyst,2.0,1,486,41312
+Analyst,2.0,0,381,45099
+Manager,3.0,11,527,128265
+Analyst,4.0,0,444,49710
+Analyst,4.0,0,673,43307
+Analyst,2.0,0,827,40357
+Analyst,4.0,2,351,48817
+Analyst,2.0,0,1092,45392
+Analyst,5.0,1,915,46566
+Analyst,4.0,0,958,47336
+Associate,4.0,6,1291,96410
+Analyst,5.0,0,777,49878
+Analyst,2.0,0,912,45147
+Analyst,3.0,0,924,45645
+Analyst,3.0,2,771,46064
+Analyst,5.0,0,675,43288
+Analyst,3.0,0,761,40208
+Analyst,2.0,3,373,42070
+Analyst,4.0,0,611,49577
+Senior Analyst,5.0,0,1323,56112
+Analyst,2.0,1,869,46762
+Analyst,2.0,0,657,44323
+Senior Manager,3.0,8,1464,153769
+Analyst,4.0,0,776,40762
+Analyst,4.0,2,485,49567
+Senior Analyst,2.0,5,608,65810
+Associate,4.0,5,1421,99311
+Analyst,2.0,0,799,43495
+Analyst,5.0,2,868,40073
+Analyst,4.0,0,885,49380
+Senior Analyst,5.0,2,1240,64480
+Analyst,5.0,0,828,49549
+Analyst,3.0,1,871,46369
+Analyst,2.0,3,372,46488
+Analyst,5.0,1,497,49101
+Analyst,5.0,1,374,41895
+Analyst,3.0,3,530,48957
+Analyst,4.0,0,708,49271
+Manager,2.0,4,1647,139380
+Analyst,5.0,2,611,47229
+Analyst,5.0,3,508,47747
+Analyst,4.0,0,628,47348
+Analyst,2.0,0,831,44163
+Associate,3.0,5,881,78556
+Analyst,4.0,0,719,46984
+Analyst,5.0,2,884,45435
+Analyst,4.0,0,974,47301
+Analyst,3.0,1,594,42428
+Analyst,4.0,1,575,49654
+Analyst,5.0,0,1051,42266
+Associate,5.0,0,1444,70823
+Analyst,3.0,0,725,48266
+Senior Analyst,5.0,0,957,69841
+Director,3.0,13,517,368887
+Analyst,4.0,1,494,41454
+Analyst,2.0,0,530,49799
+Associate,5.0,2,1643,95768
+Analyst,5.0,2,866,47993
+Analyst,3.0,0,932,45797
+Analyst,4.0,0,841,46098
+Analyst,5.0,0,387,41854
+Analyst,5.0,0,418,41250
+Manager,5.0,10,552,108931
+Manager,3.0,7,1381,112363
+Analyst,3.0,0,588,41037
+Analyst,5.0,3,346,49730
+Associate,4.0,2,582,88281
+Analyst,4.0,0,638,49725
+Senior Analyst,2.0,5,543,69877
+Manager,4.0,7,1110,139804
+Analyst,3.0,2,472,41531
+Analyst,2.0,1,457,45082
+Analyst,4.0,0,1004,49904
+Analyst,5.0,0,1094,43905
+Analyst,3.0,2,899,41147
+Analyst,4.0,0,938,40086
+Analyst,3.0,3,525,49734
+Senior Analyst,5.0,2,1000,51277
+Analyst,2.0,1,796,40065
+Analyst,4.0,1,884,40707
+Analyst,3.0,0,634,49913
+Analyst,4.0,0,776,43534
+Senior Manager,4.0,10,1263,195985
+Analyst,4.0,0,703,40720
+Analyst,2.0,0,832,45351
+Associate,3.0,6,1509,77218
+Analyst,5.0,0,535,40882
+Analyst,2.0,1,943,44318
+Associate,2.0,5,964,96322
+Analyst,4.0,0,577,49322
+Senior Manager,2.0,11,1097,187837
+Senior Analyst,4.0,2,863,51566
+Analyst,4.0,0,525,43418
+Senior Analyst,5.0,2,715,68079
+Analyst,5.0,0,1094,44146
+Analyst,2.0,0,422,40343
+Analyst,5.0,0,833,45358
+Senior Analyst,3.0,0,1395,61235
+Analyst,4.0,0,355,40319
+Analyst,5.0,0,888,47558
+Senior Manager,5.0,8,1944,194701
+Analyst,3.0,0,743,45680
+Analyst,5.0,2,346,43984
+Analyst,2.0,1,778,40800
+Analyst,4.0,0,566,46310
+Analyst,5.0,0,1079,44054
+Analyst,2.0,0,404,41222
+Senior Manager,3.0,12,1417,154120
+Analyst,2.0,0,989,42250
+Analyst,3.0,2,505,49075
+Analyst,4.0,2,483,49217
+Senior Analyst,3.0,4,489,56733
+Associate,4.0,8,1161,86705
+Analyst,4.0,0,568,43228
+Senior Analyst,5.0,0,942,52370
+Associate,4.0,5,1638,94345
+Analyst,4.0,0,953,46432
+Analyst,2.0,1,858,44599
+Analyst,3.0,0,686,42418
+Analyst,5.0,0,671,41498
+Analyst,5.0,0,985,41515
+Analyst,2.0,2,831,48541
+Senior Analyst,5.0,2,878,66661
+Analyst,3.0,0,956,44676
+Analyst,5.0,0,770,41378
+Analyst,4.0,0,677,42369
+Analyst,3.0,0,700,42662
+Analyst,2.0,0,997,41760
+Analyst,4.0,0,965,49892
+Analyst,5.0,0,753,49617
+Analyst,2.0,1,463,42877
+Analyst,3.0,0,767,48866
+Analyst,2.0,2,831,47849
+Analyst,2.0,0,964,44424
+Analyst,4.0,1,945,43884
+Analyst,4.0,2,505,40277
+Senior Manager,5.0,10,1654,185977
+Analyst,2.0,0,723,45758
+Analyst,5.0,0,714,47315
+Analyst,3.0,1,661,45172
+Analyst,2.0,2,476,49176
